@@ -1,0 +1,985 @@
+,Unnamed: 0.1,index,Unnamed: 0,Brand_name,model,price,rating,has_5g,has_nfc,has_IR_Blaster,processor_name,core,power,Rom,ram(GB),Energy,Fast Charging,Screen Size,resolution,Front_camera,Back_camera,card,os
+0,0,0,0,xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,22999,87.0,1,1,1,Snapdragon  7 Gen1,Octa Core, 2.4GHz Processor, 256,12,5200 ,1.0,6.67,1220 x 2712 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+1,1,1,1,motorola,Motorola Edge 40 Neo,27800,83.0,1,1,0,Dimensity 7030,Octa Core, 2.5GHz Processor, 128,8,5000 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+2,2,2,2,xiaomi,Xiaomi Redmi Note 13 Pro Plus,21990,87.0,1,1,1,Dimensity 7200 Ultra,Octa Core, 2.8GHz Processor, 256,12,5000 ,1.0,6.67,1220 x 2712 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+3,3,3,3,motorola,Motorola Moto G54 5G,13999,84.0,1,0,0,Dimensity 7020,Octa Core, 2.2GHz Processor, 128,8,6000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+4,4,4,4,xiaomi,Xiaomi Redmi Note 14 Pro Max,29990,88.0,1,0,1,Dimensity 6080,Octa Core, 2.4GHz Processor, 128,8,5200 ,1.0,6.78,1080 x 2460 px, 32 MP Front Camera, Quad Rear ,1.0,Android v14
+5,5,5,5,samsung,Samsung Galaxy S21 FE 5G,31999,87.0,1,1,0,Exynos  2100,Octa Core, 2.9GHz Processor, 128,8,4500 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+6,6,6,6,oneplus,OnePlus Nord CE 3 5G,25240,84.0,1,1,1,Snapdragon  782G,Octa Core, 2.7GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+7,7,7,7,vivo,Vivo T2 Pro 5G,23999,81.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 128,8,4600 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+8,8,8,8,motorola,Motorola Moto G54 5G (12GB RAM +256GB),15999,85.0,1,0,0,Dimensity 7020,Octa Core, 2.2GHz Processor, 256,12,6000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+9,9,9,9,xiaomi,Xiaomi Redmi 12 5G,11999,75.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+10,10,10,10,oneplus,OnePlus Nord CE 3 Lite 5G,19563,85.0,1,0,0,Snapdragon 695 5G,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+11,11,11,11,motorola,Motorola Edge 40 Neo (12GB RAM + 256GB),24999,85.0,1,1,0,Dimensity 7030,Octa Core, 2.5GHz Processor, 256,12,5000 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+12,12,12,12,realme,Realme GT 5 Pro,59990,89.0,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,8,4700 ,1.0,6.78,1264 x 2780 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+13,13,13,13,vivo,Vivo V29,31470,85.0,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,8,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v13
+14,14,14,14,samsung,Samsung Galaxy F54,24970,89.0,1,1,0,Exynos 1380,Octa Core, 2.4GHz Processor, 256,8,6000 ,1.0,6.7,1080 x 2408 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+15,15,15,15,motorola,Motorola Edge 40 5G,26999,87.0,1,1,0,Dimensity 8020,Octa Core, 2.6GHz Processor, 256,8,4400 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+16,16,16,16,vivo,Vivo T2x 5G (6GB RAM + 128GB),12999,78.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+17,17,17,17,vivo,Vivo Y200 5G,21990,81.0,1,0,0,Snapdragon 4 Gen1,Octa Core, 2GHz Processor, 128,8,4800 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+18,18,18,18,xiaomi,Xiaomi Redmi Note 13 Pro 5G,15990,85.0,1,1,1,Snapdragon 7s Gen 2,Octa Core, 2.4GHz Processor, 128,8,5100 ,1.0,6.67,1220 x 2712 px, 16 MP Front Camera, Triple Rear ,,Android v13
+19,19,19,19,realme,Realme 11 Pro Plus,25999,87.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+20,20,20,20,xiaomi,Xiaomi Redmi 12 5G (8GB RAM + 256GB),14999,80.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+21,21,21,21,apple,Apple iPhone 14,55999,80.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 128,6,3279 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v16
+22,22,22,22,realme,Realme 11x 5G,13499,79.0,1,1,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+23,23,23,23,oppo,OPPO A79 5G,19699,80.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+24,24,24,24,motorola,Motorola Moto G84 5G,18999,86.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,12,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+25,25,25,25,realme,Realme 11 Pro,21999,83.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Dual Rear ,,Android v13
+26,26,26,26,samsung,Samsung Galaxy M34 5G,16499,82.0,1,1,0,Exynos 1280 ,Octa Core, 2.4GHz Processor, 128,6,6000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+27,27,27,27,infinix,Infinix Note 30 5G (8GB RAM + 256GB),14699,87.0,1,1,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+28,28,28,28,xiaomi,Xiaomi Redmi 12 5G (6GB RAM + 128GB),12999,77.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+29,29,29,29,iqoo,iQOO 12 Pro,69990,89.0,1,1,0,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5000 ,1.0,6.82,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v13
+30,30,30,30,samsung,Samsung Galaxy M14 (6GB RAM + 128GB),12990,79.0,1,0,0,Exynos 1330,Octa Core, 2.4GHz Processor, 128,6,6000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+31,31,31,31,realme,Realme GT 5,33990,86.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5240 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+32,32,32,32,poco,Poco M6 Pro 5G,9999,74.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+33,33,33,33,iqoo,iQOO Z7 Pro 5G,23999,80.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 128,8,4600 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+34,34,34,34,realme,Realme Narzo 60 5G,14999,82.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+35,35,35,35,oneplus,OnePlus 11R 5G,39899,85.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+36,36,36,36,vivo,Vivo V29e,25799,85.0,1,1,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Dual Rear ,1.0,Android v13
+37,37,37,37,samsung,Samsung Galaxy S21 FE (Snapdragon),33999,88.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 256,8,4500 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+38,38,38,38,oneplus,OnePlus Nord 3 5G,30680,85.0,1,1,1,Dimensity 9000,Octa Core, 3.05GHz Processor, 128,8,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+39,39,39,39,samsung,Samsung Galaxy S24 Ultra,119990,,1,0,0,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5000 ,1.0,6.8,1200 x 2860 px, 12 MP Front Camera, Quad Rear ,1.0,Android v13
+40,40,40,40,oppo,OPPO Reno 10,32999,88.0,1,1,1,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+41,41,41,41,xiaomi,Xiaomi Redmi Note 12 Pro 5G,20999,79.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+42,42,42,42,vivo,Vivo T2x 5G,11999,75.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.58,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+43,43,43,43,apple,Apple iPhone 13,50999,78.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 128,4,3240 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v15
+44,44,44,44,realme,Realme Narzo 60X,11749,75.0,1,0,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+45,45,45,45,realme,Realme 11 5G (8GB RAM + 256GB),17999,84.0,1,0,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+46,46,46,46,oneplus,OnePlus Nord CE 3 Lite 5G (8GB RAM + 256GB),21690,86.0,1,0,0,Snapdragon 695 5G,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+47,47,47,47,samsung,Samsung Galaxy S23 Ultra 5G,101840,,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 256,12,5000 ,1.0,6.8,1440 x 3088 px, 12 MP Front Camera, Quad Rear ,1.0,Android v13
+48,48,48,48,poco,Poco F5,23999,84.0,1,0,1,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+49,49,49,49,oppo,Oppo Reno 8T,21275,86.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4800 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+50,50,50,50,vivo,Vivo X100 Pro 5G,64990,82.0,1,1,1,Dimensity 9300,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.8,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+51,51,51,51,samsung,Samsung Galaxy S25 Ultra,124990,86.0,1,0,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,5100 ,1.0,6.83,1800 x 3440 px, 60 MP Front Camera, Quad Rear ,1.0,Android v14
+52,52,52,52,vivo,Vivo V29 Pro,39999,84.0,1,0,0,Dimensity  8200,Octa Core, 3.1GHz Processor, 256,8,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v13
+53,53,53,53,samsung,Samsung Galaxy S22 5G,39999,86.0,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 128,8,3700 ,1.0,6.1,1080 x 2340 px, 10 MP Front Camera, Triple Rear ,,Android v12
+54,54,54,54,xiaomi,Xiaomi Redmi Note 15,15990,82.0,0,0,1,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.73,1080 x 2480 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+55,55,55,55,samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),32399,,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+56,56,56,56,xiaomi,Xiaomi 14 Pro,56990,,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,4880 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+57,57,57,57,xiaomi,Xiaomi Redmi Note 14 Pro 5G,18990,83.0,1,1,1,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.71,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,,Android v13
+58,58,58,58,xiaomi,Xiaomi 13 Ultra 5G,71499,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,,Android v13
+59,59,59,59,oneplus,OnePlus 11R 5G (18GB RAM + 512GB),45999,88.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 512,18,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+60,60,60,60,xiaomi,Xiaomi Redmi 12C,6799,70.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 64,4,5000 ,0.0,6.71,720 x 1650 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v12
+61,61,61,61,oneplus,OnePlus Nord CE 2 Lite 5G,16999,81.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.59,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+62,62,62,62,infinix,Infinix GT 10 Pro,21999,88.0,1,0,0,Dimensity  8050,Octa Core, 3GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+63,63,63,63,samsung,Samsung Galaxy A34 5G,25999,83.0,1,1,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+64,64,64,64,xiaomi,Xiaomi Redmi Note 15 Pro,24990,76.0,1,1,1,Dimensity 8020,Octa Core, Octa Core Processor, 256,8,5000 ,1.0,6.74,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v14
+65,65,65,65,vivo,Vivo V27,29287,85.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 128,8,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+66,66,66,66,xiaomi,Xiaomi Redmi Note 13,12990,78.0,1,0,1,Dimensity 6080,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+67,67,67,67,samsung,Samsung Galaxy M14,11868,77.0,1,0,0,Exynos 1330,Octa Core, 2.4GHz Processor, 128,4,6000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+68,68,68,68,iqoo,iQOO Z7s 5G,15999,80.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,4500 ,1.0,6.38,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+69,69,69,69,realme,Realme GT 5 (240W),42990,89.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 1,24,4600 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+70,70,70,70,samsung,Samsung Galaxy F34 5G,16499,83.0,1,1,0,Exynos 1280,Octa Core, 2.4GHz Processor, 128,6,6000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+71,71,71,71,samsung,Samsung Galaxy A54 5G,33999,88.0,1,1,0,Exynos 1380,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+72,72,72,72,vivo,Vivo T2 5G,17999,79.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,4500 ,1.0,6.38,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+73,73,73,73,oneplus,OnePlus 12,60999,89.0,1,1,0,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5400 ,1.0,6.82,1440 x 3168 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+74,74,74,74,oneplus,OnePlus Nord CE 3 (12GB RAM + 256GB),27990,85.0,1,1,1,Snapdragon  782G,Octa Core, 2.7GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+75,75,75,75,samsung,Samsung Galaxy S23 FE 5G,53999,85.0,1,1,0,Exynos 2200,Octa Core, 2.8GHz Processor, 128,8,4500 ,1.0,6.4,1080 x 2340 px, 10 MP Front Camera, Triple Rear ,1.0,Android v13
+76,76,76,76,oppo,Oppo Find X6 Pro,71990,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.82,1440 x 3168 px, 32 MP Front Camera, Triple Rear ,,Android v13
+77,77,77,77,apple,Apple iPhone 14 Plus,63999,82.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 128,6,4325 ,1.0,6.7,1284 x 2778 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v16
+78,78,78,78,poco,Poco X5 Pro,18499,80.0,1,0,1,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+79,79,79,79,xiaomi,Xiaomi Redmi Note 12 Turbo Harry Potter Edition,27990,83.0,1,1,1,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+80,80,80,80,xiaomi,Xiaomi Redmi 12 4G,9299,75.0,0,0,1,Helio G88,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+81,81,81,81,xiaomi,Xiaomi Redmi Note 12 5G,15499,77.0,1,0,1,Snapdragon 4 Gen 1,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v12
+82,82,82,82,realme,Realme 11x 5G (8GB RAM + 128GB),14900,81.0,1,1,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+83,83,83,83,motorola,Motorola Moto G32 (8GB RAM + 128GB),10999,81.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+84,84,84,84,vivo,Vivo T2x 5G (8GB RAM + 128GB),14999,80.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.58,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+85,85,85,85,itel,itel S23 Plus,13999,78.0,0,1,0,Tiger  T616,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+86,86,86,86,oneplus,OnePlus Open,139998,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,16,4805 ,1.0,7.82,2268 x 2440 px, 32 MP + 20 MP Dual Front Camera, + 20 ,1.0,
+87,87,87,87,vivo,Vivo T2 Pro 5G (8GB RAM + 256GB),24999,82.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 256,8,4600 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+88,88,88,88,infinix,Infinix Zero 30 5G (12GB RAM + 256GB),24999,88.0,1,1,0,Dimensity 8020,Octa Core, 2.6GHz Processor, 256,12,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+89,89,89,89,realme,Realme C53,9499,75.0,0,0,0,Tiger T612,Octa Core, 1.82GHz Processor, 128,4,5000 ,1.0,6.74,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+90,90,90,90,poco,Poco M6 Pro 5G (6GB RAM + 128GB),11999,77.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+91,91,91,91,apple,Apple iPhone 15 Pro Max,159900,89.0,1,1,0,Bionic  A17 Pro,Hexa Core, 3.78GHz Processor, 256,8,4422 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+92,92,92,92,vivo,Vivo Y78t,12990,77.0,1,0,0,Snapdragon 6 Gen1,Octa Core, 2.2GHz Processor, 128,8,6000 ,1.0,6.64,1080 x 2388 px, 8 MP Front Camera, Dual Rear ,,Android v13
+93,93,93,93,google,Google Pixel 7A,35999,86.0,1,1,0,Tensor G2,Octa Core, 2.85GHz Processor, 128,8,4385 ,1.0,6.1,1080 x 2400 px, 13 MP Front Camera, Dual Rear ,1.0,Android v13
+94,94,94,94,realme,Realme 11 Pro Plus (12GB RAM + 256GB),29460,89.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+95,95,95,95,oneplus,OnePlus 11 5G,51497,89.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.7,1440 x 3216 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+96,96,96,96,vivo,Vivo V29 (12GB RAM + 256GB),36999,87.0,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,12,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v13
+97,97,97,97,vivo,Vivo Y78 Plus,17990,74.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+98,98,98,98,oneplus,OnePlus 10R 5G,27699,84.0,1,1,0,Dimensity 8100 Max,Octa Core, 2.85GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+99,99,99,99,vivo,Vivo T3 5G,21990,83.0,1,0,0,Snapdragon 7 Gen1,Octa Core, 2.4GHz Processor, 128,8,4700 ,1.0,6.58,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+100,100,100,100,samsung,Samsung Galaxy A74 5G,42999,,1,1,0,Snapdragon 7 Gen1,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+101,101,101,101,iqoo,iQOO 12,62990,89.0,1,1,0,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,8,5000 ,1.0,6.82,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v13
+102,102,102,102,xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),8399,76.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+103,103,103,103,samsung,Samsung Galaxy A14 5G,14665,75.0,1,0,0,Exynos 1330,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+104,104,104,104,samsung,Samsung Galaxy S22 Ultra 5G,83000,,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.8,1440 x 3080 px, 40 MP Front Camera, Quad Rear ,,Android v12
+105,105,105,105,samsung,Samsung Galaxy S20 FE 5G,27890,88.0,1,1,0,Snapdragon 865,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v10
+106,106,106,106,samsung,Samsung Galaxy F14 5G (6GB RAM + 128GB),12490,71.0,1,0,0,Exynos 1330,Octa Core, Octa Core Processor, 128,6,6000 ,1.0,6.6,2408 x 1080 px, 13 MP Front Camera, Dual Rear ,1.0,Android v13
+107,108,108,108,oneplus,OnePlus 12 Pro,69999,85.0,1,1,0,Snapdragon  8 Gen3,Octa Core, Octa Core Processor, 256,12,4800 ,1.0,6.73,1440 x 3412 px, 32 MP Front Camera, Triple Rear ,,Android v13
+108,109,109,109,iqoo,iQOO Neo 7 Pro,32999,83.0,1,0,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+109,110,110,110,oppo,OPPO Reno 10 Pro,39999,87.0,1,1,1,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,12,4600 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v13
+110,111,111,111,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),21290,82.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+111,112,112,112,realme,Realme Narzo 60X (6GB RAM + 128GB),12999,78.0,1,0,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+112,113,113,113,realme,Realme 12,14990,80.0,1,0,0,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+113,114,114,114,vivo,Vivo Y100,16499,82.0,1,0,0,Dimensity  900,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.38,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+114,115,115,115,honor,Honor 90 5G,30899,89.0,1,1,0,Snapdragon 7 Gen 1 Accelerated Edition,Octa Core, 2.36GHz Processor, 256,8,5000 ,1.0,6.7,1200 x 2664 px, 50 MP Front Camera, Triple Rear ,,Android v13
+115,116,116,116,itel,itel P55 5G (6GB RAM + 128GB),9999,75.0,1,0,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1600 x 720 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+116,117,117,117,apple,Apple iPhone 15,79900,83.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 128,6,3349 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+117,118,118,118,motorola,Motorola Moto G24 5G,11999,82.0,1,0,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v14
+118,119,119,119,samsung,Samsung Galaxy F04,6499,68.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+119,120,120,120,oneplus,OnePlus Nord 3 5G (16GB RAM + 256GB),35399,87.0,1,1,1,Dimensity 9000,Octa Core, 3.05GHz Processor, 256,16,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+120,121,121,121,realme,Realme Narzo N53,7999,70.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 64,4,5000 ,1.0,6.74,720 x 1600 px, 8 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+121,122,122,122,motorola,Motorola Moto G14,8499,69.0,0,1,0,Tiger  T616,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.5,Full, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+122,123,123,123,poco,POCO X5 5G,13999,81.0,1,0,1,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v12
+123,124,124,124,lava,Lava Agni 2 5G,18999,82.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,8,4700 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Quad Rear ,,Android v13
+124,125,125,125,poco,Poco X5 Pro (8GB RAM + 256GB),19499,84.0,1,0,1,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+125,126,126,126,motorola,Motorola Moto E13 (8GB RAM + 128GB),7499,73.0,0,0,0,Tiger T606,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v13
+126,127,127,127,realme,Realme 11,16999,83.0,1,0,0,Dimensity 6100 Plus,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+127,128,128,128,lava,Lava Blaze 2 5G,9999,72.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+128,129,129,129,vivo,Vivo X100 Pro Plus,79990,,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5400 ,1.0,6.78,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,,Android v14
+129,130,130,130,apple,Apple iPhone 12,40999,74.0,1,1,0,Bionic A14,Hexa Core, 3.1GHz Processor, 64,4,,,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v14
+130,131,131,131,iqoo,iQOO Z7 Pro 5G (8GB RAM + 256GB),24999,80.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 256,8,4600 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+131,132,132,132,poco,Poco C55,6799,71.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.71,720 x 1650 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+132,133,133,133,oppo,Oppo A78,16499,79.0,1,1,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+133,134,134,134,oppo,OPPO F23,21999,84.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.72,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+134,135,135,135,nokia,Nokia G42 5G,11999,76.0,1,1,0,Snapdragon  480+,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+135,136,136,136,realme,Realme GT 2 Pro 5G,32999,88.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.7,1440 x 3216 px, 32 MP Front Camera, Triple Rear ,,Android v12
+136,137,137,137,realme,Realme C55 (8GB RAM + 128GB),12199,79.0,0,0,0,Helio G88,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+137,138,138,138,samsung,Samsung Galaxy S23 5G,74999,88.0,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 128,8,3900 ,1.0,6.1,1080 x 2340 px, 12 MP Front Camera, Triple Rear ,,Android v13
+138,139,139,139,poco,POCO X5 5G (8GB RAM + 256GB),14999,84.0,1,0,1,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v12
+139,140,140,140,oppo,OPPO Reno 11 Pro,47990,81.0,1,1,0,Octa Core Processor,,Octa Core Processor, 256,16,5000 ,1.0,6.73,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v14
+140,141,141,141,oneplus,OnePlus 12R,39999,85.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5500 ,1.0,6.7,1240 x 2772 px, 32 MP Front Camera, Triple Rear ,,Android v14
+141,142,142,142,xiaomi,Xiaomi 14,44999,,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,8,4610 ,1.0,6.36,1200 x 2670 px, 32 MP Front Camera, Triple Rear ,,Android v14
+142,144,144,144,oneplus,OnePlus 11 Pro,69999,,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 128,8,4500 ,1.0,6.7,1440 x 3216 px, 16 MP Front Camera, Triple Rear ,,Android v13
+143,145,145,145,samsung,Samsung Galaxy S24,72990,89.0,1,1,0,Snapdragon  8 Gen3,Octa Core, 3.3GHz Processor, 256,8,4800 ,1.0,6.2,1800 x 3200 px, 12 MP Front Camera, Triple Rear ,,Android v13
+144,146,146,146,realme,Realme C53 (6GB RAM + 128GB),10999,77.0,0,0,0,Tiger T612,Octa Core, 1.82GHz Processor, 128,6,5000 ,1.0,6.74,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+145,147,147,147,realme,Realme Narzo 60 Pro (12GB RAM + 1TB),26999,85.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 1,12,5000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+146,148,148,148,samsung,Samsung Galaxy S21 FE (Snapdragon + 8GB RAM + 128GB),32999,88.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+147,149,149,149,infinix,Infinix Zero 30 5G,23999,87.0,1,1,0,Dimensity 8020,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+148,150,150,150,oneplus,OnePlus 11R (16GB RAM + 256GB),44849,87.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+149,151,151,151,oppo,Oppo Reno 10 Pro Plus,54999,89.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4700 ,1.0,6.74,1240 x 2772 px, 32 MP Front Camera, Triple Rear ,,Android v13
+150,152,152,152,apple,Apple iPhone 11,36999,73.0,0,1,0,A13 Bionic,Hexa Core, 2.65GHz Processor, 64,4,3110 ,0.0,6.1,828 x 1792 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v13
+151,153,153,153,samsung,Samsung Galaxy M34 5G (8GB RAM + 256GB),21048,85.0,1,1,0,Exynos 1280 ,Octa Core, 2.4GHz Processor, 256,8,6000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+152,154,154,154,infinix,Infinix Hot 30 5G (8GB RAM + 128GB),12499,82.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,6000 ,1.0,6.78,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+153,155,155,155,vivo,Vivo V27 Pro,34999,84.0,1,0,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 128,8,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+154,156,156,156,apple,Apple iPhone 15 Plus,89900,84.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 128,6,4383 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+155,157,157,157,tecno,Tecno Pova 5 Pro,14999,83.0,1,1,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+156,158,158,158,poco,Poco C51,5999,66.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+157,159,159,159,realme,Realme 10 Pro (8GB RAM + 128GB),16999,84.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+158,160,160,160,nokia,Nokia 7610 5G,52990,89.0,1,1,0,Snapdragon  7+ Gen2,Octa Core, 2.91GHz Processor, 256,12,4500 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+159,161,161,161,vivo,Vivo V29 Pro (12GB RAM + 256GB),42999,85.0,1,0,0,Dimensity  8200,Octa Core, 3.1GHz Processor, 256,12,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v13
+160,162,162,162,samsung,Samsung Galaxy F14 5G,11490,68.0,1,0,0,Exynos 1330,Octa Core, Octa Core Processor, 128,4,6000 ,1.0,6.6,2408 x 1080 px, 13 MP Front Camera, Dual Rear ,1.0,Android v13
+161,163,163,163,nothing,Nothing Phone 1,28499,85.0,1,1,0,Snapdragon 778G Plus,Octa Core, 2.5GHz Processor, 128,8,4500 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v12
+162,164,164,164,asus,Asus ROG Phone 7 Pro,94990,88.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,18,6000 ,1.0,6.78,1080 x 2448 px, 12 MP Front Camera, Triple Rear ,1.0,Android v13
+163,165,165,165,infinix,Infinix Hot 30i,8299,76.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 128,8,5000 ,1.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+164,166,166,166,huawei,Huawei P60 Pro,83999,81.0,0,1,1,Snapdragon 8+ Gen 1 ,Octa Core, 3.19GHz Processor,256,,4815 ,1.0,6.67,1220 x 2700 px, 13 MP Front Camera, Triple Rear ,1.0,HarmonyOS v3.1
+165,167,167,167,vivo,Vivo V26 Pro,42990,89.0,1,1,0,Dimensity 9000 Plus,Octa Core, 3.2GHz Processor, 256,12,4800 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+166,168,168,168,apple,Apple iPhone 15 Pro,134900,87.0,1,1,0,Bionic  A17 Pro,Hexa Core, 3.78GHz Processor, 128,8,3274 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+167,169,169,169,jio,Jio JioPhone 5G,9990,64.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 32,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+168,170,170,170,poco,Poco C65,8999,75.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 1920 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+169,171,171,171,xiaomi,Xiaomi Redmi A2 (4GB RAM + 64GB),6265,66.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+170,172,172,172,xiaomi,Xiaomi Redmi Note 12 (8GB RAM + 256GB),18999,83.0,1,0,1,Snapdragon 4 Gen 1,Octa Core, 2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v12
+171,173,173,173,samsung,Samsung Galaxy A34 5G (8GB RAM + 256GB),27149,86.0,1,1,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.6,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+172,174,174,174,oppo,OPPO A2 Pro 5G,20999,82.0,1,0,1,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2412 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+173,175,175,175,samsung,Samsung Galaxy M34 5G (8GB RAM + 128GB),18499,84.0,1,1,0,Exynos 1280 ,Octa Core, 2.4GHz Processor, 128,8,6000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+174,176,176,176,honor,Honor X9B,28990,85.0,1,1,1,Snapdragon 6 Gen1,Octa Core, 2.2GHz Processor, 256,12,5800 ,1.0,6.78,1220 x 2652 px, 16 MP Front Camera, Triple Rear ,,Android v13
+175,177,177,177,iqoo,iQOO Z6 Lite (6GB RAM + 128GB),12999,79.0,1,0,0,Snapdragon  4 Gen 1,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+176,178,178,178,blackview,Blackview N6000,17239,75.0,1,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,3880 ,1.0,4.3,540 x 1200 px, 16 MP Front Camera, Dual Rear ,,Android v13
+177,179,179,179,poco,Poco M6 Pro 5G (4GB RAM + 128GB),10999,75.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+178,180,180,180,apple,Apple iPhone 14 Pro,119900,84.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 128,6,3200 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v16
+179,181,181,181,xiaomi,Xiaomi Mi 11X,19999,80.0,1,0,1,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,6,4520 ,1.0,6.67,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,,Android v11
+180,182,182,182,honor,Honor 90 5G (12GB RAM +512GB),31799,89.0,1,1,0,Snapdragon 7 Gen 1 Accelerated Edition,Octa Core, 2.36GHz Processor, 512,12,5000 ,1.0,6.7,1200 x 2664 px, 50 MP Front Camera, Triple Rear ,,Android v13
+181,183,183,183,oneplus,OnePlus 11 (16GB RAM + 256GB),57777,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.7,1440 x 3216 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+182,184,184,184,motorola,Motorola Moto E13 (4GB RAM + 64GB),6499,67.0,0,0,0,Tiger T606,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v13
+183,185,185,185,oppo,OPPO F21s Pro,18075,82.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+184,186,186,186,samsung,Samsung Galaxy A23 5G,19199,79.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+185,187,187,187,samsung,Samsung Galaxy M13 5G,10999,75.0,1,0,0,Dimensity 700,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+186,188,188,188,samsung,Samsung Galaxy A05s,14999,78.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.7,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+187,189,189,189,oneplus,OnePlus Ace 2 Pro,34990,86.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+188,190,190,190,vivo,Vivo Y56,18999,83.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+189,191,191,191,nubia,Nubia Red Magic 8 Pro 5G,46990,84.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,6000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v13
+190,192,192,192,iqoo,iQOO Neo 7 5G,27999,82.0,1,0,1,Dimensity 8200,Octa Core, 3.1GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+191,193,193,193,realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),32999,89.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.7,1440 x 3216 px, 32 MP Front Camera, Triple Rear ,,Android v12
+192,194,194,194,realme,Realme Narzo 60 5G (8GB RAM +256GB),16999,82.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+193,195,195,195,xiaomi,Xiaomi Redmi Note 12 4G,11998,79.0,0,0,1,Snapdragon 685,Octa Core, 2.8GHz Processor, 64,6,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+194,196,196,196,realme,Realme Narzo 60 Pro 5G,21249,82.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Dual Rear ,,Android v13
+195,197,197,197,google,Google Pixel 7 Pro 5G,63999,89.0,1,1,0,Google  Tensor G2,Octa Core, 2.85GHz Processor, 128,12,5000 ,1.0,6.7,1440 x 3120 px, 10.8 MP Front Camera, Triple Rear ,,Android v13
+196,198,198,198,motorola,Motorola Edge 30 Ultra,54999,,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4610 ,1.0,6.67,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,,Android v12
+197,199,199,199,vivo,Vivo V29e (8GB RAM + 256GB),27825,86.0,1,1,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Dual Rear ,1.0,Android v13
+198,200,200,200,oppo,Oppo A18,9699,64.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 64,4,5000 ,0.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+199,201,201,201,poco,Poco F5 (12GB RAM + 256GB),26999,85.0,1,0,1,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+200,202,202,202,xiaomi,Xiaomi Redmi Note 12 Pro Plus,27990,86.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,8,4980 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+201,203,203,203,samsung,Samsung Galaxy F34 5G (8GB RAM + 128GB),18499,85.0,1,1,0,Exynos 1280,Octa Core, 2.4GHz Processor, 128,8,6000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+202,204,204,204,oneplus,OnePlus Nord CE 4 Lite 5G,20990,85.0,1,0,0,Snapdragon 7 Gen1,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.74,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+203,205,205,205,vivo,Vivo T3 Pro,31990,86.0,1,0,0,Snapdragon  782G,Octa Core, 2.7GHz Processor, 256,8,4700 ,1.0,6.67,1080 x 2408 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+204,206,206,206,duoqin,Duoqin F22 Pro,9990,,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 64,4,2150 ,0.0,3.54,640 x 960 px, 2 MP Front Camera, Rear ,1.0,Android v12
+205,207,207,207,realme,Realme C51,7999,69.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 64,4,5000 ,1.0,6.74,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+206,208,208,208,infinix,Infinix Note 30 5G,13999,81.0,1,1,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 128,4,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+207,209,209,209,tecno,Tecno Camon 20 Pro 5G,18895,85.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+208,210,210,210,nokia,Nokia Play 2 Max,55990,,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.6,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+209,211,211,211,realme,Realme GT Neo 5 SE,23990,85.0,1,1,1,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 256,8,5500 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+210,212,212,212,poco,Poco C55 (6GB RAM + 128GB),7799,75.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.71,720 x 1650 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+211,213,213,213,samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),16799,79.0,1,0,0,Exynos 1330,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+212,214,214,214,xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),22999,82.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+213,215,215,215,xiaomi,Xiaomi 13 Pro 5G,74998,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4820 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+214,216,216,216,oppo,OPPO Reno 9 Pro 5G,39999,86.0,1,1,0,Dimensity 8100 Max,Octa Core, 2.85GHz Processor, 256,16,4500 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Dual Rear ,,Android v13
+215,217,217,217,motorola,Motorola Moto G60,14999,84.0,0,1,0,Snapdragon  732G,Octa Core, 2.3GHz Processor, 128,6,6000 ,1.0,6.78,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+216,218,218,218,samsung,Samsung Galaxy A54 5G (8GB RAM + 256GB),37499,89.0,1,1,0,Exynos 1380,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+217,219,219,219,xiaomi,Xiaomi Redmi 11 Prime 5G,10399,74.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.58,1080 x 2408 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+218,220,220,220,vivo,Vivo V25 Pro 5G,26990,84.0,1,0,0,Dimensity 1300,Octa Core, 3GHz Processor, 128,8,4830 ,1.0,6.56,1080 x 2376 px, 32 MP Front Camera, Triple Rear ,,Android v12
+219,221,221,221,google,Google Pixel 7 5G,42999,85.0,1,1,0,Google Tensor G2,Octa Core, 2.85GHz Processor, 128,8,4355 ,1.0,6.3,1080 x 2400 px, 10.8 MP Front Camera, Dual Rear ,,Android v13
+220,222,222,222,lava,Lava Blaze 2 5G (6GB RAM + 128GB),10999,75.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+221,223,223,223,realme,Realme C2s,3499,63.0,0,0,0,Helio  P22 ,Octa Core, 2GHz Processor, 32,3,4000 ,0.0,6.1,720 x 1560 px, 5 MP Front Camera, Dual Rear ,1.0,Android v9.0 (Pie)
+222,225,225,225,realme,Realme 11 Pro (8GB RAM + 256GB),23456,84.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Dual Rear ,,Android v13
+223,226,226,226,apple,Apple iPhone 15 Pro Max (1TB),199900,89.0,1,1,0,Bionic  A17 Pro,Hexa Core, 3.78GHz Processor, 1,8,4422 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+224,227,227,227,oppo,OPPO K11 5G,21990,84.0,1,1,1,Snapdragon 782G,Octa Core, 2.7GHz Processor, 256,8,5800 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v13
+225,228,228,228,xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),41999,89.0,1,1,1,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,12,4600 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v12
+226,229,229,229,samsung,Samsung Galaxy S21 Ultra,64700,,1,1,0,Exynos  2100,Octa Core, 2.9GHz Processor, 256,12,5000 ,1.0,6.8,1440 x 3200 px, 40 MP Front Camera, Quad Rear ,,Android v10
+227,230,230,230,nothing,Nothing Phone 2 (12GB RAM + 256GB),41999,89.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4700 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Dual Rear ,,Android v13
+228,231,231,231,iqoo,iQOO Neo 7 Pro (12GB RAM + 256GB),35999,84.0,1,0,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+229,232,232,232,samsung,Samsung Galaxy F15,15990,73.0,1,1,0,Exynos,Octa Core, Octa Core Processor, 128,6,6000 ,1.0,6.67,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+230,233,233,233,realme,Realme 12 Pro,24990,86.0,1,0,0,Dimensity 8050,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+231,234,234,234,xiaomi,Xiaomi Redmi 12C (6GB RAM + 128GB),8599,74.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 128,6,5000 ,0.0,6.71,720 x 1650 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v12
+232,235,235,235,samsung,Samsung Galaxy A15,15990,71.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 64,6,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+233,236,236,236,tecno,Tecno Spark 10 Pro,10999,80.0,0,1,0,Helio  G88,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.8,1080 x 2460 px, 32 MP Front Camera, Dual Rear ,1.0,Android v13
+234,237,237,237,motorola,Motorola Moto G73,16999,84.0,1,1,0,Dimensity 930,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+235,238,238,238,realme,Realme 10,10881,74.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v12
+236,239,239,239,iqoo,iQOO Z7s (8GB RAM + 128GB),17499,82.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.38,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+237,240,240,240,oppo,Oppo Find N3,114990,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,12,4805 ,1.0,7.82,2268 x 2440 px, 32 MP + 20 MP Dual Front Camera, + 20 ,1.0,
+238,241,241,241,xiaomi,Xiaomi Redmi K70 Pro,43990,78.0,1,1,1,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 128,8,5120 ,1.0,6.72,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v14
+239,242,242,242,samsung,Samsung Galaxy S23 Ultra (12GB RAM + 512GB),113899,,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 512,12,5000 ,1.0,6.8,1440 x 3088 px, 12 MP Front Camera, Quad Rear ,1.0,Android v13
+240,243,243,243,motorola,Motorola Moto X40,39999,89.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,4600 ,1.0,6.7,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,,Android v13
+241,244,244,244,samsung,Samsung Galaxy M04,6499,66.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+242,245,245,245,realme,Realme 10 Pro Plus,21999,82.0,1,0,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,6,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+243,246,246,246,lava,Lava Blaze Pro 5G,12969,79.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2460 px, 8 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+244,247,247,247,realme,Realme GT Neo 3 5G,26345,83.0,1,1,0,Dimensity  8100,Octa Core, 2.85GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+245,248,248,248,google,Google Pixel 6A,30999,71.0,1,1,0,Google  Tensor,Octa Core, Octa Core Processor, 128,6,4410 ,1.0,6.14,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+246,249,249,249,samsung,Samsung Galaxy M44 5G,29999,86.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 256,8,6000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+247,250,250,250,nokia,Nokia Magic Max,49990,89.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+248,251,251,251,vivo,Vivo T2 5G (8GB RAM + 128GB),19999,82.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.38,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+249,252,252,252,realme,Realme GT Neo 5,30999,85.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,8,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+250,253,253,253,vivo,Vivo Y22,11599,72.0,0,0,0,Helio G70,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.55,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+251,254,254,254,vivo,Vivo Y78 5G,15990,66.0,1,0,0,Dimensity 7020,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.64,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+252,255,255,255,xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),12999,81.0,1,0,1,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v11
+253,256,256,256,jio,Jio Phone 3,4499,,0,0,0,Quad Core,Quad Core, 1.4GHz Processor, 64,2,2800 ,0.0,5,720 x 1280 px, 2 MP Front Camera, Rear ,1.0,Android v8.1 (Oreo)
+254,257,257,257,samsung,Samsung Galaxy M16,16990,76.0,1,1,0,Exynos,Octa Core, Octa Core Processor, 128,8,7000 ,1.0,6.73,1080 x 2408 px, 32 MP Front Camera, Triple Rear ,1.0,Android v15
+255,258,258,258,realme,Realme Narzo N55,8999,73.0,0,0,0,Helio G88,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+256,259,259,259,meizu,Meizu 20 Pro,47990,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,12,5000 ,1.0,6.81,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,1.0,No FM Radio
+257,260,260,260,xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),16999,80.0,1,0,1,Snapdragon 4 Gen 1,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v12
+258,261,261,261,apple,Apple iPhone 14 (256GB),65999,81.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 256,6,3279 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v16
+259,262,262,262,vivo,Vivo Y16,7999,65.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 32,3,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+260,263,263,263,vivo,Vivo X Fold 5G,106990,,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,12,4600 ,1.0,8.03,1916 x 2160 px, 16 MP Front Camera, Quad Rear ,,Android v12
+261,264,264,264,oppo,OPPO A2x,12999,74.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+262,265,265,265,gionee,Gionee G13 Pro,6190,,0,0,0,Tiger  T310,Quad Core, 2GHz Processor, 32,4,3500 ,0.0,6.26,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,HarmonyOS v2
+263,266,266,266,apple,Apple iPhone 9,29990,61.0,0,1,0,A13 Bionic,Hexa Core, 2.65GHz Processor, 64,3,2050 ,1.0,4.7,750 x 1334 px, 7 MP Front Camera, Rear ,1.0,iOS v13.0
+264,267,267,267,vivo,Vivo V30 Pro,42990,85.0,1,0,0,Dimensity  9000,Octa Core, 3.05GHz Processor, 256,12,4800 ,1.0,6.79,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v14
+265,268,268,268,infinix,Infinix Hot 30 5G,11499,77.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,4,6000 ,1.0,6.78,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+266,269,269,269,samsung,Samsung Galaxy A55 5G,39990,79.0,1,1,0,Exynos 1480,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.6,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+267,270,270,270,realme,Realme C55,9999,73.0,0,0,0,Helio G88,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+268,271,271,271,poco,Poco M5,8499,74.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+269,272,272,272,samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),15499,80.0,1,1,0,Snapdragon  750G,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+270,273,273,273,oppo,OPPO Reno8 5G,26999,83.0,1,1,0,Dimensity 1300,Octa Core, 3GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+271,274,274,274,samsung,Samsung Galaxy S23 FE 5G (8GB RAM + 256GB),59999,87.0,1,1,0,Exynos 2200,Octa Core, 2.8GHz Processor, 256,8,4500 ,1.0,6.4,1080 x 2340 px, 10 MP Front Camera, Triple Rear ,1.0,Android v13
+272,275,275,275,xiaomi,Xiaomi Redmi 13 5G,12499,76.0,1,0,1,Snapdragon 6 Gen 1,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.82,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v14
+273,276,276,276,apple,Apple iPhone 18 Pro Max,179900,86.0,1,1,0,Bionic  A19,others, Deca Core Processor, 256,12,5000 ,1.0,6.9,1800 x 3200 px, 32 MP Front Camera, Quad Rear ,1.0,iOS v20
+274,277,277,277,vivo,Vivo V27 Pro (12GB RAM + 256GB),34399,86.0,1,0,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,12,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+275,278,278,278,motorola,Motorola Edge 30 Fusion 5G,34999,88.0,1,1,0,Snapdragon 888+,Octa Core, 2.9GHz Processor, 128,8,4400 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+276,279,279,279,realme,Realme Narzo N53 (6GB RAM + 128GB),9499,74.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 128,6,5000 ,1.0,6.74,720 x 1600 px, 8 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+277,280,280,280,oppo,OPPO Reno 11,34990,76.0,1,1,0,Octa Core Processor,,Octa Core Processor, 256,8,5000 ,1.0,6.78,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v14
+278,281,281,281,redmi,Redmi K60 Ultra,29990,85.0,1,1,1,Dimensity 9200 Plus,Octa Core, 3.05GHz Processor, 256,12,5000 ,1.0,6.67,1220 x 2712 px, 20 MP Front Camera, Triple Rear ,,Android v13
+279,282,282,282,samsung,Samsung Galaxy Z Fold 5,154999,,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 256,12,4400 ,1.0,7.6,1812 x 2176 px, 10 MP + 4 MP Dual Front Camera, + 4 ,,Android v13
+280,283,283,283,oppo,OPPO A17,9199,72.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+281,284,284,284,vivo,Vivo X90 Pro 5G,74998,,1,1,1,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,12,4870 ,1.0,6.78,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+282,285,285,285,vivo,Vivo V25 5G,24200,83.0,1,0,0,Dimensity  900,Octa Core, 2GHz Processor, 128,8,4500 ,1.0,6.44,1080 x 2408 px, 50 MP Front Camera, Triple Rear ,1.0,Android v12
+283,286,286,286,samsung,Samsung Galaxy M52 5G,29990,83.0,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+284,287,287,287,oneplus,OnePlus 10 Pro 5G,49999,89.0,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.7,1440 x 3216 px, 32 MP Front Camera, Triple Rear ,,Android v12
+285,288,288,288,apple,Apple iPhone 12 (128GB),45999,75.0,1,1,0,Bionic A14,Hexa Core, 3.1GHz Processor, 128,4,,,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v14
+286,289,289,289,vivo,Vivo Y17s,11499,70.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+287,290,290,290,nokia,Nokia G42 5G (8GB RAM + 256GB),16999,79.0,1,1,0,Snapdragon  480+,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+288,291,291,291,tesla,Tesla Pi Phone,69999,83.0,1,1,0,Octa Core Processor,,Octa Core Processor, 512,16,5000 ,1.0,6.73,1080 x 2448 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+289,292,292,292,iqoo,iQOO Z9,19990,85.0,1,0,0,Snapdragon  7+ Gen2,Octa Core, 2.91GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+290,293,293,293,google,Google Pixel 8 Pro,106999,81.0,1,1,0,Tensor G3,others, 3GHz Processor, 128,12,5050 ,1.0,6.7,1344 x 2992 px, 10.5 MP Front Camera, Triple Rear ,,Android v14
+291,294,294,294,infinix,Infinix Zero Ultra,29999,88.0,1,0,0,Dimensity 920 5G,Octa Core, 2.5GHz Processor, 256,8,4500 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+292,295,295,295,asus,Asus ROG Phone 8 Pro,99999,82.0,1,1,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 512,18,6000 ,1.0,6.82,1080 x 2448 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+293,296,296,296,infinix,Infinix Smart 7 (4GB RAM + 128 GB),6699,65.0,0,0,0,Spreadtrum SC9863A1,Octa Core, 1.6GHz Processor, 128,4,6000 ,0.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+294,297,297,297,xiaomi,Xiaomi Redmi Note 14,13990,75.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 128,4,6000 ,1.0,6.67,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+295,298,298,298,motorola,Motorola Rizr Rollable,159990,86.0,1,1,0,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 512,12,3500 ,1.0,5,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,1.0,Android v13
+296,299,299,299,lava,Lava Blaze 5G,9499,73.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,0.0,6.5,1600 x 720 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+297,300,300,300,samsung,Samsung Galaxy A24,17999,79.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+298,301,301,301,samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),28890,89.0,1,1,0,Exynos 1280,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+299,302,302,302,iqoo,iQOO 9 Pro 5G,39990,87.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,8,4700 ,1.0,6.78,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v12
+300,303,303,303,nubia,Nubia Redmagic 8s Pro,45990,85.0,1,1,0,Snapdragon 8+ Gen2,Octa Core, 3.36GHz Processor, 128,8,6000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v13
+301,304,304,304,oppo,Oppo A78 4G,16499,81.0,0,1,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.43,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+302,305,305,305,poco,Poco F6,39990,86.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v14
+303,306,306,306,xiaomi,Xiaomi Redmi 13C,9999,72.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.74,720 x 1650 px, 8 MP Front Camera, + Depth Sensor + Macro Triple Rear ,1.0,Android v13
+304,307,307,307,xiaomi,Xiaomi 14 Ultra,74990,83.0,1,1,1,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.67,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,,Android v14
+305,308,308,308,vivo,Vivo X100 5G,59990,80.0,1,1,1,Dimensity 9300,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.78,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+306,309,309,309,samsung,Samsung Galaxy A34 5G (8GB RAM + 128GB),27999,86.0,1,1,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+307,310,310,310,motorola,Motorola Moto E13,5999,64.0,0,0,0,Tiger T606,Octa Core, 2GHz Processor, 64,2,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v13
+308,311,311,311,sony,Sony Xperia Pro-I,134999,,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 512,12,4500 ,1.0,6.5,1644 x 3840 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+309,312,312,312,tecno,Tecno Pova 5 Pro 5G (8GB RAM + 256GB),15999,83.0,1,1,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+310,313,313,313,realme,Realme GT Neo 5 (240W),39999,87.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,4600 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+311,314,314,314,samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),18699,82.0,1,0,0,Exynos 1330,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+312,315,315,315,nubia,Nubia Red Magic 8 Pro Plus,60999,86.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v13
+313,316,316,316,google,Google Pixel 8,75999,77.0,1,1,0,Tensor G3,others, 3GHz Processor, 128,8,4575 ,1.0,6.2,1080 x 2400 px, 10.5 MP Front Camera, Dual Rear ,,Android v14
+314,317,317,317,vivo,Vivo Y35,13599,79.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+315,318,318,318,xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),23999,85.0,1,0,1,Dimensity  8100,Octa Core, 2.85GHz Processor, 256,8,5080 ,1.0,6.6,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,,Android v12
+316,319,319,319,iqoo,iQOO 11 5G,51999,87.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,8,5000 ,1.0,6.78,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+317,320,320,320,oppo,OPPO A38,12999,72.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+318,321,321,321,xiaomi,Xiaomi Redmi A2 (2GB RAM + 64GB),5299,63.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 64,2,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+319,322,322,322,vivo,Vivo Y27 4G,13999,76.0,0,1,0,Helio G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.64,1080 x 2388 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+320,323,323,323,honor,Honor X50,15990,80.0,1,0,1,Snapdragon 6 Gen1,Octa Core, 2.2GHz Processor, 128,8,5800 ,1.0,6.78,1220 x 2652 px, 8 MP Front Camera, Dual Rear ,,Android v13
+321,324,324,324,vivo,Vivo Y23,15990,72.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+322,325,325,325,vivo,Vivo T3x 5G,17999,71.0,1,0,0,Dimensity 7020,Octa Core, Octa Core Processor, 128,6,5000 ,1.0,6.67,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v14
+323,326,326,326,tecno,Tecno Spark 11,11990,79.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v14
+324,327,327,327,vivo,Vivo V27 4G,19990,80.0,1,0,0,Helio G85,Octa Core, 2GHz Processor, 128,8,4600 ,1.0,6.64,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+325,328,328,328,oneplus,OnePlus V Flip,79990,88.0,1,1,0,Dimensity 9000 Plus,Octa Core, 3.2GHz Processor, 256,12,4500 ,1.0,6.78,1080 x 2520 px, 32 MP Front Camera, Dual Rear ,1.0,
+326,329,329,329,infinix,Infinix Zero 5G 2023,15999,84.0,1,0,0,Dimensity 920 5G,Octa Core, 2.5GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+327,330,330,330,xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),11999,77.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2408 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+328,331,331,331,realme,Realme GT Neo 3 5G (12GB RAM + 256GB),26628,84.0,1,1,0,Dimensity  8100,Octa Core, 2.85GHz Processor, 256,12,4500 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+329,332,332,332,vivo,Vivo X80 Pro 5G,59999,,1,1,1,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,12,4700 ,1.0,6.78,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+330,333,333,333,itel,itel A60s (4GB RAM + 128 GB),7099,,0,0,0,Unisoc  SC9863A1,Octa Core, Octa Core Processor, 128,4,5000 ,1.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+331,334,334,334,xiaomi,Xiaomi Redmi 12 4G (6GB RAM + 128GB),10499,77.0,0,0,1,Helio G88,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.79,1080 x 2460 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+332,335,335,335,lava,Lava O1,6999,63.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.56,1600 x 720 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+333,336,336,336,honor,Honor 90 Lite,24990,82.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 256,8,4500 ,1.0,6.7,1080 x 2388 px, 16 MP Front Camera, Triple Rear ,,Android v13
+334,337,337,337,infinix,Infinix Note 30 Pro,19990,88.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+335,338,338,338,nubia,Nubia Z50 Ultra,46990,88.0,1,1,1,Snapdragon 8 gen2,Octa Core, 3.2GHz Processor, 256,8,5000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v13
+336,339,339,339,nokia,Nokia 2780 Flip,4990,,0,0,0,Snapdragon QM215,Quad Core, 1.3GHz Processor, 512,4,1450 ,0.0,2.7,240 x 320 px,,5 ,1.0,
+337,340,340,340,motorola,Motorola Moto Edge 50 Neo,29999,78.0,1,1,0,Dimensity 7200,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v14
+338,341,341,341,nothing,Nothing Phone 1 (8GB RAM + 256GB),29999,86.0,1,1,0,Snapdragon 778G Plus,Octa Core, 2.5GHz Processor, 256,8,4500 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v12
+339,342,342,342,samsung,Samsung Galaxy S23 Plus,94999,89.0,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 256,8,4700 ,1.0,6.6,1080 x 2340 px, 12 MP Front Camera, Triple Rear ,,Android v13
+340,343,343,343,tecno,Tecno Camon 19 Neo,8999,77.0,0,1,0,Helio  G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+341,344,344,344,poco,Poco X6 Pro 5G,19999,72.0,1,0,0,Snapdragon 778G+,Octa Core, Octa Core Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+342,345,345,345,realme,Realme 10 Pro,18999,82.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+343,346,346,346,itel,itel A56,5490,,0,0,0,Quad Core,Quad Core, 1.3GHz Processor, 16,1,4000 ,0.0,6,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v9.0 (Pie)
+344,347,347,347,itel,itel P36,6490,,0,0,0,Spreadtrum  SC7731E,Quad Core, 1.3GHz Processor, 16,1,5000 ,0.0,6.5,1600 x 720 px, 8 MP Front Camera, Dual Rear ,,Android v9.0 (Pie)
+345,348,348,348,apple,Apple iPhone 15 Pro Max (512GB),179900,89.0,1,1,0,Bionic  A17 Pro,Hexa Core, 3.78GHz Processor, 512,8,4422 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+346,350,350,350,itel,itel S23,7999,75.0,0,0,0,Octa Core,Octa Core, 1.6GHz Processor, 128,8,5000 ,1.0,6.6,1600 x 720 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+347,351,351,351,xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),30990,87.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,12,4980 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+348,352,352,352,oneplus,OnePlus 10T,39999,85.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4800 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+349,353,353,353,vivo,Vivo X90 5G,59999,89.0,1,1,1,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,8,4810 ,1.0,6.78,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+350,354,354,354,vivo,Vivo T1 44W (6GB RAM + 128GB),15980,79.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.44,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+351,355,355,355,xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),13880,80.0,0,0,1,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.43,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+352,356,356,356,samsung,Samsung Galaxy F23 5G,14499,78.0,1,1,0,Snapdragon 750G,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+353,357,357,357,xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,19999,83.0,1,0,1,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,6,5200 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v11
+354,358,358,358,samsung,Samsung Galaxy S22 Plus 5G,59999,87.0,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 128,8,4500 ,1.0,6.6,1080 x 2340 px, 10 MP Front Camera, Triple Rear ,,Android v12
+355,359,359,359,oppo,OPPO F21 Pro 5G,23990,82.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+356,360,360,360,oppo,OPPO A58 4G,13999,77.0,0,1,1,Helio G85 ,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+357,361,361,361,nothing,Nothing Phone 2 (12GB RAM + 512GB),44999,89.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 512,12,4700 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Dual Rear ,,Android v13
+358,362,362,362,xiaomi,Xiaomi Redmi 12C (4GB RAM + 128GB),7770,72.0,0,0,0,Helio  G85,Octa Core, 2GHz Processor, 128,4,5000 ,0.0,6.71,720 x 1650 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v12
+359,363,363,363,itel,itel P55 5G,9989,72.0,1,0,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1600 x 720 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+360,364,364,364,realme,Realme 11 Pro (12GB RAM + 256GB),27499,85.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Dual Rear ,,Android v13
+361,365,365,365,motorola,Motorola Razr 40,49999,88.0,1,1,0,Snapdragon 7 Gen1,Octa Core, 2.4GHz Processor, 128,8,4200 ,1.0,6.9,1080 x 2640 px, 32 MP Front Camera, Dual Rear ,1.0,
+362,366,366,366,sony,Sony Xperia 1 V,125990,,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.5,1644 x 3840 px, 12 MP Front Camera, Triple Rear ,1.0,Android v13
+363,367,367,367,oneplus,OnePlus Nord CE 4 5G,23990,84.0,1,1,0,Snapdragon  782G,Octa Core, 2.7GHz Processor, 128,8,5000 ,1.0,6.73,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+364,368,368,368,poco,Poco M5 (6GB RAM + 128GB),8999,77.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+365,369,369,369,google,Google Pixel 8A,45990,72.0,1,1,0,Tensor G3,others, 3GHz Processor, 128,8,4700 ,1.0,6.1,1080 x 2400 px, 10.1 MP Front Camera, Dual Rear ,1.0,Android v14
+366,370,370,370,tecno,Tecno Camon 19 Pro 5G,13999,82.0,1,1,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.8,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,,Android v12
+367,371,371,371,xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,32999,84.0,1,0,1,Snapdragon  7 Gen1,Octa Core, 2.4GHz Processor, 128,6,5200 ,1.0,6.67,1080 x 2460 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+368,372,372,372,apple,Apple iPhone 13 (256GB),60999,79.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 256,4,3240 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v15
+369,373,373,373,ikall,iKall S2 Star,9499,67.0,0,0,0,Quad Core,Quad Core, 1.6GHz Processor, 128,6,6000 ,0.0,6.8,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+370,374,374,374,xiaomi,Xiaomi Redmi Note 10 JE 5G,12990,74.0,1,0,1,Snapdragon 480,Octa Core, 2GHz Processor, 64,4,4800 ,1.0,6.5,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+371,375,375,375,poco,Poco X4 Pro 5G,15499,80.0,1,0,1,Snapdragon 695 ,Octa Core, 2.2GHz Processor, 64,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+372,376,376,376,samsung,Samsung Galaxy Note 20 Ultra 5G,77990,,1,1,0,Exynos 990,Octa Core, 2.73GHz Processor, 256,12,4500 ,1.0,6.9,1440 x 3088 px, 10 MP Front Camera, Triple Rear ,1.0,Android v10
+373,377,377,377,vivo,Vivo U3x,8990,71.0,1,0,0,Snapdragon  480 ,Octa Core, 2GHz Processor, 64,6,5000 ,1.0,6.58,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,,Android v11
+374,379,379,379,realme,Realme C53 (6GB RAM + 64GB),10499,76.0,0,0,0,Tiger T612,Octa Core, 1.82GHz Processor, 64,6,5000 ,1.0,6.74,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+375,380,380,380,samsung,Samsung Galaxy A35 5G,29990,75.0,1,1,0,Octa Core Processor,,Octa Core Processor, 128,6,5000 ,1.0,6.67,1080 x 2340 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+376,381,381,381,vivo,Vivo Y36 4G,14999,80.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.64,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+377,382,382,382,vivo,Vivo Y02t 4G,8999,64.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v13
+378,383,383,383,tecno,Tecno Spark 10,9798,78.0,0,1,0,Helio G37,Octa Core, 2.3GHz Processor, 128,8,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+379,384,384,384,vivo,Vivo V27e,22999,84.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,4600 ,1.0,6.62,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+380,385,385,385,iqoo,iQOO Z8 5G,19499,83.0,1,0,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,8,5000 ,1.0,6.64,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,,Android v13
+381,386,386,386,samsung,Samsung Galaxy F13,9199,74.0,0,1,0,Exynos 850,Octa Core, 2GHz Processor, 64,4,6000 ,1.0,6.6,2408 x 1080 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+382,387,387,387,oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),56499,,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.7,1440 x 3216 px, 32 MP Front Camera, Triple Rear ,,Android v12
+383,388,388,388,samsung,Samsung Galaxy A33 5G,24450,82.0,1,1,0,Exynos  1280,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.4,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v12
+384,389,389,389,apple,Apple iPhone 15 (256GB),89900,84.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 256,6,3349 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+385,390,390,390,oppo,OPPO Find N3 Flip,94999,,1,1,0,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,12,4300 ,1.0,6.8,1080 x 2520 px, 32 MP Front Camera, Triple Rear ,1.0,
+386,391,391,391,honor,Honor 90 Pro,55990,,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.78,1224 x 2700 px, 50 MP + 2 MP Dual Front Camera, + 2 ,,Android v13
+387,392,392,392,realme,Realme Narzo N55 (6GB RAM + 128GB),10999,76.0,0,0,0,Helio G88,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+388,393,393,393,iqoo,iQOO Neo 8,28999,83.0,1,0,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4880 ,1.0,6.78,1260 x 2800 px, 16 MP Front Camera, Dual Rear ,,Android v13
+389,394,394,394,realme,Realme 10 (8GB RAM + 128GB),13999,79.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v12
+390,395,395,395,vivo,Vivo V28,28990,84.0,1,0,0,Snapdragon 6 Gen 1,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+391,396,396,396,oppo,Oppo Find X6,54990,,1,1,1,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,12,4880 ,1.0,6.74,1240 x 2772 px, 32 MP Front Camera, Triple Rear ,,Android v13
+392,397,397,397,xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),6799,66.0,0,0,0,Helio  G25,Octa Core, 2GHz Processor, 64,4,5000 ,0.0,6.53,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v11
+393,398,398,398,samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),49999,87.0,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,8,3700 ,1.0,6.1,1080 x 2340 px, 10 MP Front Camera, Triple Rear ,,Android v12
+394,399,399,399,samsung,Samsung Galaxy A23,15490,79.0,0,0,0,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+395,400,400,400,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,19990,83.0,1,0,1,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+396,401,401,401,vivo,Vivo Y21 2021,12160,69.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.51,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v11
+397,402,402,402,samsung,Samsung Galaxy A82 5G,39990,86.0,1,1,0,Snapdragon 855+,Octa Core, 2.96GHz Processor, 128,6,4500 ,1.0,6.71,1440 x 3200 px, 10 MP Front Camera, Triple Rear ,1.0,Android v11
+398,403,403,403,poco,Poco C51 (6GB RAM + 128 GB),7499,70.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+399,404,404,404,infinix,Infinix Zero 30 4G,15999,85.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+400,405,405,405,huawei,Huawei Nova 11 SE,22990,85.0,0,1,0,Sanpdragon 680,Octa Core, 2.4GHz Processor, 256,8,4500 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Hongmeng OS v4.0
+401,406,406,406,tecno,Tecno Pop 8,6999,64.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 64,3,5000 ,1.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+402,407,407,407,apple,Apple iPhone 16 Pro,137900,78.0,1,1,0,Bionic  A18 Pro,Hexa Core, Hexa Core Processor, 128,8,3334 ,1.0,6.1,1200 x 2666 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v18
+403,408,408,408,motorola,Motorola Moto G13,9999,75.0,0,1,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+404,409,409,409,xiaomi,Xiaomi Redmi Note 11R,12990,73.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.58,1080 x 2400 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+405,410,410,410,oppo,Oppo Find X7 Pro 5G,110490,,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5000 ,1.0,6.83,1440 x 3168 px, 32 MP Front Camera, Triple Rear ,,Android v14
+406,411,411,411,infinix,Infinix Smart 7 Pro,8999,70.0,0,0,0,Helio P60,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.64,720 x 1640 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+407,412,412,412,samsung,Samsung Galaxy F64 5G,24999,85.0,1,1,0,Dimensity 900,Octa Core, 2.4GHz Processor, 128,6,7000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+408,413,413,413,oneplus,OnePlus 10R 5G (12GB RAM + 256GB),36489,85.0,1,1,0,Dimensity 8100 Max,Octa Core, 2.85GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+409,414,414,414,motorola,Motorola Moto G62 5G,15999,81.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+410,415,415,415,samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),16999,84.0,1,1,0,Exynos  1280,Octa Core, 2.4GHz Processor, 128,8,6000 ,1.0,6.6,1080 x 2400 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+411,416,416,416,xiaomi,Xiaomi Redmi 11 Prime,9499,74.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+412,417,417,417,vivo,Vivo X80 5G,39999,86.0,1,0,0,Dimensity  9000,Octa Core, 3.05GHz Processor, 128,8,4500 ,1.0,6.78,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+413,418,418,418,vivo,Vivo V23 Pro 5G,29389,85.0,1,0,0,Dimensity 1200,Octa Core, 3GHz Processor, 128,8,4300 ,1.0,6.56,1080 x 2376 px, 50 MP + 8 MP Dual Front Camera, + 8 ,1.0,Android v12
+414,419,419,419,samsung,Samsung Galaxy Z Flip 3,48790,83.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 128,8,3300 ,1.0,6.7,1080 x 2640 px, 10 MP Front Camera, Dual Rear ,1.0,
+415,420,420,420,samsung,Samsung Galaxy Note 10 Plus,53800,89.0,0,1,0,Exynos 9825,Octa Core, 2.73GHz Processor, 256,12,4300 ,1.0,6.8,1440 x 3040 px, 10 MP Front Camera, Quad Rear ,1.0,Android v9.0 (Pie)
+416,421,421,421,apple,Apple iPhone 15 Pro (256GB),144900,88.0,1,1,0,Bionic  A17 Pro,Hexa Core, 3.78GHz Processor, 256,8,3274 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+417,422,422,422,itel,Itel P40 Plus,7999,63.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 128,4,7000 ,1.0,6.8,720 x 1640 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+418,423,423,423,cubot,Cubot KingKong 9,24990,87.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,12,10600 ,1.0,6.58,1080 x 2408 px, 32 MP Front Camera, Triple Rear ,1.0,
+419,424,424,424,nothing,Nothing Phone 3,45990,79.0,1,1,0,Octa Core Processor,,Octa Core Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v14
+420,425,425,425,oneplus,OnePlus 13 Pro,70990,86.0,1,1,0,Snapdragon  8 Gen4,Octa Core, Octa Core Processor, 256,12,4800 ,1.0,6.78,1440 x 3412 px, 32 MP Front Camera, Triple Rear ,,Android v14
+421,426,426,426,motorola,Motorola Edge 50 Pro,89990,85.0,1,1,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,4600 ,1.0,6.72,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,,Android v14
+422,427,427,427,tecno,Tecno Camon 20,14380,83.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+423,428,428,428,infinix,Infinix Hot 30,10999,80.0,0,1,0,Helio G88,Octa Core, 2GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+424,429,429,429,xiaomi,Xiaomi Redmi Note 12 4G (6GB RAM + 128GB),13999,80.0,0,0,1,Snapdragon 685,Octa Core, 2.8GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+425,430,430,430,realme,Realme C55 (6GB RAM + 64GB),10199,75.0,0,0,0,Helio G88,Octa Core, 2GHz Processor, 64,6,5000 ,1.0,6.72,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+426,431,431,431,infinix,Infinix Note 30 VIP,24990,89.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+427,433,433,433,vivo,Vivo V27 (12GB RAM + 256GB),35998,86.0,1,0,0,Dimensity 7200,Octa Core, 2.8GHz Processor, 256,12,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+428,434,434,434,xiaomi,Xiaomi Redmi Note 12 Turbo,23999,82.0,1,1,1,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+429,435,435,435,honor,Honor X9a,27999,82.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,8,5100 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+430,436,436,436,vivo,Vivo Y16 (4GB RAM + 64GB),10339,68.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+431,437,437,437,vivo,Vivo Y22 (6GB RAM + 128GB),15380,75.0,0,0,0,Helio G70,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.55,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+432,438,438,438,oppo,OPPO A57 4G (4GB RAM + 64 GB),11199,69.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+433,439,439,439,letv,Letv Y1 Pro,5499,,0,0,0,Tiger T310,Quad Core, 2GHz Processor, 32,4,4000 ,0.0,6.54,720 x 1560 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,,Android v11
+434,440,440,440,motorola,Motorola Moto G32,10999,75.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+435,441,441,441,poco,Poco M4 5G,10889,75.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+436,442,442,442,realme,Realme 9 5G,13999,75.0,1,0,0,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+437,443,443,443,iqoo,iQOO Z6 5G,14799,78.0,1,0,0,Snapdragon  695 ,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+438,444,444,444,vivo,Vivo V23 5G,26848,83.0,1,0,0,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 128,8,4200 ,1.0,6.44,1080 x 2400 px, 50 MP + 8 MP Dual Front Camera, + 8 ,1.0,Android v12
+439,445,445,445,samsung,Samsung Galaxy A53 5G,27990,87.0,1,1,0,Exynos 1280,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+440,446,446,446,xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),20898,86.0,1,1,1,Snapdragon  778G ,Octa Core, 2.4GHz Processor, 128,8,4250 ,1.0,6.55,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,1.0,Android v11
+441,447,447,447,iqoo,iQOO 7 Legend,39990,84.0,1,1,0,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 128,8,4000 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+442,450,450,450,realme,Realme Narzo N53 (8GB RAM + 128GB),10999,75.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 128,8,5000 ,1.0,6.74,720 x 1600 px, 8 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+443,451,451,451,infinix,Infinix GT 10 Pro Plus,42999,,1,0,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.82,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+444,452,452,452,vivo,Vivo Y27 5G,20999,76.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.64,1080 x 2388 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+445,453,453,453,xiaomi,Xiaomi Redmi Note 12T Pro,18499,85.0,1,1,1,Dimensity 8200 Ultra ,Octa Core, 3.1GHz Processor, 128,8,5080 ,1.0,6.51,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+446,454,454,454,samsung,Samsung Galaxy A76,42990,,1,1,0,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2412 px, 32 MP Front Camera, Quad Rear ,1.0,Android v14
+447,455,455,455,oneplus,OnePlus Nord CE 5 5G,29990,86.0,1,1,0,Snapdragon  7+ Gen2,Octa Core, 2.91GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+448,456,456,456,realme,Realme 12 Pro Plus,35990,88.0,1,0,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,8,5000 ,1.0,6.73,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+449,457,457,457,vivo,Vivo Y100A,19799,82.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.38,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+450,458,458,458,iqoo,iQOO Neo 8 Pro,38990,85.0,1,0,1,Dimensity 9200 Plus,Octa Core, 3.35GHz Processor, 256,16,4880 ,1.0,6.78,1260 x 2800 px, 16 MP Front Camera, Dual Rear ,,Android v13
+451,459,459,459,xiaomi,Xiaomi Redmi A2,6249,61.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 32,2,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v13
+452,460,460,460,oppo,Oppo A56s,12999,75.0,1,0,0,Dimensity 810,Octa Core, 2.4GHz Processor, 128,8,5000 ,0.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+453,461,461,461,ikall,iKall Z19 Pro,7304,60.0,0,0,0,Quad Core,Quad Core, 1.6GHz Processor, 64,4,5000 ,0.0,6.5,720 x 1600 px, 8 MP Front Camera, Rear ,1.0,Android v11.0
+454,462,462,462,samsung,Samsung Galaxy Z Flip 5,99999,88.0,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.2GHz Processor, 256,8,3700 ,1.0,6.7,1080 x 2640 px, 10 MP Front Camera, Dual Rear ,1.0,
+455,463,463,463,vivo,Vivo V30,33990,77.0,1,0,0,Snapdragon  7+ Gen2,Octa Core, Octa Core Processor, 256,8,5000 ,1.0,6.73,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+456,464,464,464,realme,Realme C30s (4GB RAM + 64GB),6159,62.0,0,0,0,Unisoc SC9863A,Octa Core, 1.6GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+457,465,465,465,apple,Apple iPhone 14 Plus (256GB),81999,82.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 256,6,4325 ,1.0,6.7,1284 x 2778 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v16
+458,466,466,466,oppo,OPPO A17K,8999,62.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,3,5000 ,0.0,6.56,720 x 1612 px, 5 MP Front Camera, Rear ,1.0,Android v12
+459,467,467,467,nothing,Nothing Phone 1 (12GB RAM + 256GB),31999,87.0,1,1,0,Snapdragon 778G Plus,Octa Core, 2.5GHz Processor, 256,12,4500 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v12
+460,468,468,468,nokia,Nokia G11 Plus,7124,71.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.52,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+461,469,469,469,tecno,Tecno Spark 10C,9265,72.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+462,470,470,470,xiaomi,Xiaomi Redmi Note 11,10999,76.0,0,0,1,Snapdragon  680,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.43,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+463,471,471,471,samsung,Samsung Galaxy A13,12950,75.0,0,0,0,Octa Core,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+464,472,472,472,motorola,Motorola Edge 20 5G,24989,87.0,1,1,0,Snapdragon  778G ,Octa Core, 2.4GHz Processor, 128,8,4000 ,1.0,6.7,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,,Android v11
+465,473,473,473,samsung,Samsung Galaxy S21 Plus,45280,88.0,1,1,0,Exynos 2100,Octa Core, 2.9GHz Processor, 128,8,4800 ,1.0,6.7,1080 x 2400 px, 10 MP Front Camera, Triple Rear ,,Android v10
+466,474,474,474,apple,Apple iPhone 11 (128GB),38999,75.0,0,1,0,A13 Bionic,Hexa Core, 2.65GHz Processor, 128,4,3110 ,0.0,6.1,828 x 1792 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v13
+467,475,475,475,ikall,iKall S2,9489,68.0,0,0,0,Quad Core,Quad Core, 1.6GHz Processor, 128,6,6000 ,0.0,6.8,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+468,476,476,476,blackview,Blackview A200 Pro,20999,84.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,12,5050 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+469,477,477,477,nubia,Nubia Red Magic 9 Pro Plus 5G,69999,80.0,1,1,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.82,1200 x 2700 px, 32 MP Front Camera, Triple Rear ,,Android v13
+470,478,478,478,nokia,Nokia X200,24999,84.0,1,1,0,Snapdragon  6 Gen 1,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+471,480,480,480,samsung,Samsung Galaxy S23 (8GB RAM + 256GB),79999,88.0,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 256,8,3900 ,1.0,6.1,1080 x 2340 px, 12 MP Front Camera, Triple Rear ,,Android v13
+472,481,481,481,iqoo,iQOO 11 (16GB RAM + 256GB),54999,89.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.78,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+473,482,482,482,samsung,Samsung Galaxy M04 (4GB RAM + 128GB),7499,68.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 128,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+474,483,483,483,samsung,Samsung Galaxy A04e,8400,65.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 32,3,5000 ,0.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+475,484,484,484,samsung,Samsung Galaxy S24 Plus,89990,,1,1,0,Snapdragon  8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5000 ,1.0,6.7,1200 x 2480 px, 32 MP Front Camera, Triple Rear ,,Android v14
+476,485,485,485,oppo,OPPO F21s Pro 4G,15355,82.0,0,0,0,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+477,486,486,486,apple,Apple iPhone 14 Pro (256GB),122990,85.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 256,6,3200 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v16
+478,487,487,487,samsung,Samsung Galaxy A53 (8GB RAM + 256GB),29994,89.0,1,1,0,Exynos 1280,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+479,488,488,488,xiaomi,Xiaomi Redmi K50i 5G,24990,82.0,1,0,1,Dimensity  8100,Octa Core, 2.85GHz Processor, 128,6,5080 ,1.0,6.6,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,,Android v12
+480,489,489,489,vivo,Vivo X90 Pro Plus 5G,94999,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4700 ,1.0,6.78,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,,Android v13
+481,490,490,490,motorola,Motorola Moto Edge 40 Lite 5G,19999,83.0,1,0,0,Snapdragon  695 ,Octa Core, 2.2GHz Processor, 128,8,4020 ,1.0,6.28,1080 x 2408 px, 32 MP Front Camera, Dual Rear ,1.0,Android v12
+482,491,491,491,realme,Realme GT Neo 3T,29999,79.0,1,0,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,6,5000 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+483,492,492,492,vivo,Vivo Y17s (4GB RAM + 128 GB),12499,72.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+484,493,493,493,realme,Realme Narzo 60,12999,75.0,0,1,0,Helio  G96,Octa Core, 2.05GHz Processor, 64,4,4500 ,1.0,6.59,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+485,494,494,494,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),21999,84.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.59,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+486,495,495,495,oppo,OPPO Reno 8 Pro 5G,37990,86.0,1,1,0,Dimensity 8100-Max,Octa Core, 2.85GHz Processor, 256,12,4500 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v12
+487,496,496,496,xiaomi,Xiaomi Mi 10T 5G,19999,80.0,1,1,0,Snapdragon 865,Octa Core, 2.84GHz Processor, 128,6,5000 ,1.0,6.67,2400 x 1080 px, 20 MP Front Camera, Triple Rear ,,Android v10
+488,498,498,498,realme,Realme Narzo 60 Pro (12GB RAM + 256GB),24999,83.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+489,499,499,499,samsung,Samsung Galaxy A24 5G,24999,74.0,1,1,0,Octa Core Processor,,Octa Core Processor, 128,6,5000 ,1.0,6.5,1080 x 2340 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+490,500,500,500,realme,Realme C51 (4GB RAM + 128 GB),9399,70.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 128,4,5000 ,1.0,6.74,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+491,501,501,501,oukitel,Oukitel C36,9990,66.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 128,4,5150 ,0.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+492,502,502,502,nubia,Nubia Z50S,24999,82.0,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, + Macro Triple Rear ,,Android v13
+493,503,503,503,google,Google Pixel 9 Pro,94990,83.0,1,1,0,Google  Tensor G4,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.67,1440 x 3120 px, 50 MP Front Camera, Triple Rear ,,Android v14
+494,504,504,504,asus,Asus Zenfone 10,70990,89.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,4300 ,1.0,5.92,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v13
+495,505,505,505,tecno,Tecno Camon 20 Premier,29998,89.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 512,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+496,506,506,506,poco,Poco F5 Pro,36999,87.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,8,5160 ,1.0,6.67,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+497,507,507,507,tecno,Tecno Phantom X2,34999,85.0,1,1,0,Dimensity 9000,Octa Core, 3.05GHz Processor, 256,8,5160 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+498,508,508,508,apple,Apple iPhone 14 Pro Max (1TB),177999,87.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 1,6,4323 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v16
+499,509,509,509,oppo,OPPO Reno 9 Pro Plus,45999,86.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,4700 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v13
+500,510,510,510,oppo,Oppo Find N2 5G,94990,,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4520 ,1.0,7.1,1792 x 1920 px, 32 MP + 32 MP Dual Front Camera, + 32 ,1.0,
+501,511,511,511,samsung,Samsung Galaxy A75 5G,44999,83.0,1,1,0,Snapdragon 778G+,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+502,512,512,512,oppo,OPPO Reno 9 5G,28499,83.0,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,8,4500 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Dual Rear ,,Android v13
+503,513,513,513,infinix,Infinix Note 13 Pro,16999,80.0,0,0,0,Helio  G99,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.91,1080 x 2460 px, 16 MP Front Camera, Quad Rear ,1.0,Android v12
+504,514,514,514,infinix,Infinix Smart 7,6799,64.0,0,0,0,Spreadtrum SC9863A1,Octa Core, 1.6GHz Processor, 64,4,6000 ,0.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+505,515,515,515,honor,Honor X9 5G,16999,80.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4800 ,1.0,6.81,1080 x 2388 px, 16 MP Front Camera, Triple Rear ,,Android v11
+506,516,516,516,realme,Realme 9 5G SE,19499,80.0,1,0,0,Snapdragon  778G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+507,517,517,517,xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),12399,82.0,0,0,1,Helio  G96,Octa Core, 2.05GHz Processor, 128,6,5000 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+508,519,519,519,realme,Realme GT 5G,25999,85.0,1,1,0,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+509,520,520,520,oneplus,OnePlus 9 Pro,64900,88.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.7,1440 x 3216 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+510,521,521,521,oneplus,OnePlus Nord N30 SE,19990,85.0,1,0,0,Snapdragon 695 5G,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+511,522,522,522,honor,Honor X40 GT Racing,20499,83.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 256,12,4800 ,1.0,6.81,1080 x 2388 px, 16 MP Front Camera, Triple Rear ,,Android v13
+512,523,523,523,honor,Honor V Purse,67990,87.0,1,1,1,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,16,4500 ,1.0,7.71,2016 x 2348 px, 8 MP Front Camera, Dual Rear ,1.0,
+513,524,524,524,xiaomi,Xiaomi Redmi Note 12 Pro (12GB RAM + 256GB),23999,83.0,1,0,1,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+514,525,525,525,infinix,Infinix Note 15 Pro 5G,19990,77.0,1,0,0,Dimensity 6100 Plus,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+515,526,526,526,ikall,iKall K333 4G,3420,,0,0,0,Helio MT6739,,Helio MT6739, 16,2,3000 ,0.0,2.8,240 x 360 px, 2 MP Front Camera, Rear ,1.0,Android v12
+516,527,527,527,tecno,Tecno Pova 5 4G,11999,79.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,6000 ,1.0,6.78,1080 x 2460 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+517,528,528,528,oneplus,OnePlus Ace 2V,26990,85.0,1,1,1,Dimensity  9000,Octa Core, 3.05GHz Processor, 256,12,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+518,529,529,529,tecno,Tecno Phantom V Fold,78499,,1,1,0,Dimensity 9000 Plus,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,7.85,2000 x 2296 px, 32 MP + 16 MP Dual Front Camera, + 16 ,,Android v13
+519,530,530,530,samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),21170,81.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+520,531,531,531,oppo,OPPO A58,18990,76.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+521,532,532,532,tecno,Tecno Camon 19 Pro Mondrian Edition,13910,84.0,0,1,0,Helio G96,Octa Core, 2.05GHz Processor, 128,8,5000 ,1.0,6.8,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+522,533,533,533,oppo,OPPO A77s,11599,76.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.56,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+523,534,534,534,motorola,Motorola Moto G62 (8GB RAM + 128GB),16999,83.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+524,535,535,535,realme,Realme C33,8490,64.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 32,3,5000 ,0.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+525,536,536,536,realme,Realme 9i 5G,14850,75.0,1,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+526,537,537,537,sony,Sony Xperia L5 5G,15990,73.0,0,1,0,Helio  P35,Octa Core, 2.3GHz Processor, 64,4,4000 ,1.0,6.2,720 x 1680 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+527,538,538,538,oneplus,OnePlus Ace Racing Edition 5G,22990,83.0,1,1,0,Dimensity 8100 Max,Octa Core, 2.85GHz Processor, 128,8,5000 ,1.0,6.59,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+528,539,539,539,nokia,Nokia N73 5G,46999,,1,0,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,12,6000 ,1.0,6.9,1400 x 3200 px, 32 MP Front Camera, Penta Rear ,1.0,Android v12.1
+529,540,540,540,xiaomi,Xiaomi Redmi 10 Power,9899,77.0,0,0,1,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,6000 ,1.0,6.7,720 x 1650 px, 5 MP Front Camera, Dual Rear ,1.0,Android v11
+530,541,541,541,xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),22399,87.0,1,0,1,Snapdragon  695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+531,542,542,542,samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),94999,,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 512,12,5000 ,1.0,6.8,1440 x 3080 px, 40 MP Front Camera, Quad Rear ,,Android v12
+532,543,543,543,samsung,Samsung Galaxy S22 FE 5G,51999,79.0,1,1,0,Exynos  2300,Octa Core, Octa Core Processor, 128,8,4200 ,1.0,6.4,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+533,544,544,544,samsung,Samsung Galaxy A03 Core,5599,,0,0,0,Unisoc  SC9836A,Quad Core, 1.6GHz Processor, 32,2,5000 ,0.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v10
+534,545,545,545,samsung,Samsung Galaxy M33 5G,16999,81.0,1,1,0,Exynos  1280,Octa Core, 2.4GHz Processor, 128,6,6000 ,1.0,6.6,1080 x 2400 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+535,546,546,546,vivo,Vivo T1 5G,18699,78.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+536,547,547,547,poco,Poco M4 Pro 5G,13999,76.0,1,0,1,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v11
+537,548,548,548,apple,Apple iPhone 14 Mini,69990,70.0,0,1,0,Bionic A16,,Bionic A16, 128,6,3500 ,1.0,5.42,1080 x 2340 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v15
+538,549,549,549,iqoo,iQOO Z5 5G,18990,82.0,1,0,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+539,550,550,550,itel,itel S16 Pro,6990,,0,0,0,Quad Core,Quad Core, 1.3GHz Processor, 32,2,4000 ,0.0,6.6,1600 x 720 px, 8 MP Front Camera, Triple Rear ,1.0,Android v10
+540,551,551,551,realme,Realme 8,13990,78.0,0,0,0,Helio G95,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+541,552,552,552,oneplus,OnePlus 9,37999,86.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+542,553,553,553,samsung,Samsung Galaxy F41 (6GB RAM + 128GB),14999,82.0,0,0,0,Exynos 9611,Octa Core, 2.3GHz Processor, 128,6,6000 ,1.0,6.4,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v10.0
+543,554,554,554,samsung,Samsung Galaxy S20 FE,26499,86.0,0,1,0,Exynos 990,Octa Core, 2.73GHz Processor, 128,8,4500 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v10.0
+544,555,555,555,apple,Apple iPhone XR2,49999,60.0,0,1,0,Apple  A13,,Apple  A13, 64,4,3060 ,1.0,6.1,828 x 1792 px, 7 MP Front Camera, Dual Rear ,1.0,iOS v12.3
+545,556,556,556,xiaomi,Xiaomi Redmi Note 7 Pro,9599,70.0,0,0,1,Qualcomm Snapdragon 675,Octa Core, 2GHz Processor, 64,4,4000 ,1.0,6.3,1080 x 2340 px, 13 MP Front Camera, Dual Rear ,1.0,Android v9.0 (Pie)
+546,557,557,557,samsung,Samsung Galaxy S10 Plus,36699,81.0,0,1,0,Exynos 9820,Octa Core, 2.7GHz Processor, 128,8,4100 ,1.0,6.4,1440 x 3040 px, 10 MP + 8 MP Dual Front Camera, + 8 ,1.0,Android v9.0 (Pie)
+547,560,560,560,apple,Apple iPhone 15 Plus (256GB),99900,85.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 256,6,4383 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+548,561,561,561,infinix,Infinix Note 30 VIP Racing Edition,25990,88.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+549,562,562,562,nokia,Nokia 6600 Max 5G,34990,85.0,1,0,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,7100 ,1.0,6.56,1200 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+550,564,564,564,nubia,Nubia Z50S Pro,43999,88.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.78,1260 x 2800 px, 16 MP Front Camera, Triple Rear ,,Android v13
+551,565,565,565,nubia,Nubia Redmagic 8s Pro Plus,61999,88.0,1,1,0,Snapdragon 8+ Gen2,Octa Core, 3.36GHz Processor, 256,16,5000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v13
+552,566,566,566,tecno,Tecno Camon 20 Pro 5G (8GB RAM + 256GB),21746,86.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+553,568,568,568,lava,Lava Agni 3 5G,24990,76.0,1,0,0,Dimensity  7200,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.67,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+554,569,569,569,realme,Realme C56,12990,74.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.74,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+555,570,570,570,samsung,Samsung Galaxy M15,15990,73.0,1,1,0,Exynos,Octa Core, Octa Core Processor, 128,6,6000 ,1.0,6.67,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+556,571,571,571,tecno,Tecno Spark 10 5G (8GB RAM + 128GB),13168,79.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+557,572,572,572,motorola,Motorola Razr 40 Ultra,79999,89.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,8,3800 ,1.0,6.9,1080 x 2640 px, 32 MP Front Camera, Dual Rear ,1.0,
+558,573,573,573,xiaomi,Xiaomi Redmi Note 14 Pro Plus,34990,78.0,1,0,1,Dimensity 8020,Octa Core, Octa Core Processor, 256,8,5000 ,1.0,6.71,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+559,574,574,574,duoqin,Duoqin Qin 3 Ultra,18990,66.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,2500 ,1.0,5.02,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+560,575,575,575,xiaomi,Xiaomi 13T,56990,86.0,1,1,1,Dimensity 8200 Ultra,Octa Core, 3.1GHz Processor, 256,8,5000 ,1.0,6.67,1220 x 2712 px, 20 MP Front Camera, Triple Rear ,,Android v13
+561,576,576,576,honor,Honor X8a,18999,78.0,0,1,0,Helio G88,Octa Core, 2GHz Processor, 128,6,4500 ,1.0,6.7,1080 x 2388 px, 16 MP Front Camera, Triple Rear ,,Android v12
+562,577,577,577,tecno,Tecno Pop 7 Pro,5599,61.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 64,2,5000 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+563,578,578,578,xiaomi,Xiaomi Redmi A2 Plus,7499,66.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+564,579,579,579,xiaomi,Xiaomi Redmi Note 12 Pro 4G,14999,81.0,0,1,1,Snapdragon 732G,Octa Core, 2.3GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+565,580,580,580,infinix,Infinix Note 12i (2022),8999,73.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.7,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+566,581,581,581,oppo,OPPO F22 Pro,27660,83.0,1,0,0,Snapdragon 6 Gen 1,Octa Core, 2.2GHz Processor, 128,8,4800 ,1.0,6.58,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+567,582,582,582,nothing,Nothing Phone 1 Lite,24990,80.0,1,1,0,Snapdragon 778G Plus,Octa Core, 2.5GHz Processor, 128,6,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v12
+568,583,583,583,samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),11403,71.0,1,0,0,Dimensity 700,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+569,584,584,584,motorola,Motorola Moto X30 Pro,41990,,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4450 ,1.0,6.67,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,,Android v12
+570,585,585,585,xiaomi,Xiaomi 13T Pro 5G,69999,89.0,1,1,1,Dimensity 9200 Plus,Octa Core, 3.05GHz Processor, 256,12,5000 ,1.0,6.67,1220 x 2712 px, 20 MP Front Camera, Triple Rear ,1.0,Android v13
+571,586,586,586,samsung,Samsung Galaxy A05,12499,74.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.7,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+572,587,587,587,oppo,OPPO A97 5G,23990,79.0,1,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 256,12,5000 ,1.0,6.56,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+573,588,588,588,motorola,Motorola Edge 40 Pro 5G,79990,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4600 ,1.0,6.67,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,,Android v13
+574,589,589,589,samsung,Samsung Galaxy M54 5G,37999,87.0,1,1,0,Exynos 1380,Octa Core, 2.4GHz Processor, 128,8,6000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+575,590,590,590,realme,Realme 9 5G SE (8GB RAM + 128GB),18799,82.0,1,0,0,Snapdragon  778G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+576,591,591,591,oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),24999,85.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.59,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+577,592,592,592,realme,Realme Narzo 50 Pro 5G,17999,78.0,1,0,0,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 128,6,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+578,593,593,593,cat,CAT S22 Flip,14999,,0,0,0,Qualcomm 215,Quad Core, 1.3GHz Processor, 16,2,2000 ,0.0,4,480 x 640 px, 2 MP Front Camera, Rear ,1.0,
+579,594,594,594,xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),23499,83.0,1,0,1,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,8,4520 ,1.0,6.67,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,,Android v11
+580,595,595,595,xiaomi,Xiaomi Mi 11X Pro,24749,85.0,1,0,1,Snapdragon 888,Octa Core, 2.84GHz Processor, 128,8,4520 ,1.0,6.67,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,,Android v11
+581,596,596,596,xiaomi,Xiaomi Redmi Note 10S,13964,78.0,0,0,1,Helio G95,Octa Core, 2.05GHz Processor, 64,6,5000 ,1.0,6.43,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+582,597,597,597,samsung,Samsung Galaxy S21,69999,88.0,1,1,0,Exynos  2100,Octa Core, 2.9GHz Processor, 128,8,4000 ,1.0,6.2,1080 x 2400 px, 10 MP Front Camera, Triple Rear ,,Android v10
+583,598,598,598,samsung,Samsung Galaxy S20,34999,87.0,0,1,0,Exynos  990,Octa Core, 2.73GHz Processor, 128,8,4000 ,1.0,6.2,1440 x 3200 px, 10 MP Front Camera, Triple Rear ,1.0,Android v10.0
+584,599,599,599,motorola,Motorola Edge Plus,49999,89.0,1,1,0,Snapdragon  865 ,Octa Core, 2.84GHz Processor, 256,12,5000 ,1.0,6.7,1080 x 2340 px, 25 MP Front Camera, Triple Rear ,,Android v10.0
+585,600,600,600,samsung,Samsung Galaxy A72,25980,88.0,0,0,0,Snapdragon  720G ,Octa Core, 2.3GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v11
+586,601,601,601,samsung,Samsung Galaxy A32,21999,80.0,0,0,0,Helio G80,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.4,1080 x 2400 px, 20 MP Front Camera, Quad Rear ,1.0,Android v11
+587,602,602,602,xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,88.0,0,1,0,Snapdragon  855,Octa Core, 2.8GHz Processor, 256,8,4000 ,1.0,6.39,1080 x 2340 px, 20 MP Front Camera, Triple Rear ,1.0,Android v9.0 (Pie)
+588,603,603,603,xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),11200,78.0,0,0,0,Snapdragon 845,Octa Core, 2.8GHz Processor, 128,6,4000 ,1.0,6.18,1080 x 2246 px, 20 MP Front Camera, Dual Rear ,1.0,Android v8.1 (Oreo)
+589,604,604,604,itel,itel A70 4G,6999,,0,0,0,Unisoc  T603,Octa Core, Octa Core Processor, 128,3,5000 ,0.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+590,605,605,605,oneplus,OnePlus Nord N20 SE (4GB RAM + 128GB),15375,77.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 128,4,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+591,606,606,606,vivo,Vivo Y56 5G (4GB RAM + 128GB),16989,78.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+592,607,607,607,oneplus,OnePlus 11 5G Marble Odyssey,64999,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,6.7,1440 x 3216 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+593,608,608,608,poco,Poco F6 Pro,40990,87.0,1,1,1,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,5500 ,1.0,6.72,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v13
+594,609,609,609,tecno,Tecno Spark 12,14990,81.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+595,610,610,610,motorola,Motorola Moto G74,19990,86.0,1,1,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.56,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,1.0,Android v13
+596,611,611,611,infinix,Infinix Note 30,17990,82.0,0,0,0,Helio  G99,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+597,612,612,612,vivo,Vivo V27 Pro (8GB RAM + 256GB),35999,85.0,1,0,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,8,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+598,613,613,613,iqoo,iQOO Neo 7 (12GB RAM + 256GB),31999,84.0,1,0,1,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,12,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+599,614,614,614,infinix,Infinix Zero 5G 2023 Turbo,17999,85.0,1,0,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 256,8,5000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+600,615,615,615,huawei,Huawei Mate 60 Pro,79990,,1,1,1,Kirin 9000S,Octa Core, 2.62GHz Processor, 256,12,5000 ,1.0,6.82,1212 x 2616 px, 13 MP Dual Front Camera, Triple Rear ,1.0,Hongmeng OS v4.0
+601,616,616,616,realme,Realme 10 Pro Plus (8GB RAM + 128GB),25999,84.0,1,0,0,Dimensity 1080,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+602,617,617,617,nubia,Nubia Red Magic 7S Pro,60990,86.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.8,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,,Android v12
+603,618,618,618,vivo,Vivo T2x 5G (2022),18990,80.0,1,0,0,Dimensity 1300,Octa Core, 3GHz Processor, 128,8,6000 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,,Android v12
+604,619,619,619,samsung,Samsung Galaxy M35,22999,74.0,0,1,0,Octa Core Processor,,Octa Core Processor, 128,8,6000 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+605,620,620,620,oneplus,OnePlus Nord 2T (12GB RAM + 256GB),33999,85.0,1,1,0,Dimensity  1300,Octa Core, 3GHz Processor, 256,12,4500 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+606,621,621,621,iqoo,iQOO 11 Pro 5G,58990,89.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,8,4700 ,1.0,6.78,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+607,622,622,622,samsung,Samsung Galaxy F24 5G,14999,78.0,1,1,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+608,623,623,623,motorola,Motorola Edge 30 5G (8GB RAM + 128GB),23999,85.0,1,1,0,Snapdragon 778G+,Octa Core, 2.5GHz Processor, 128,8,4020 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+609,624,624,624,samsung,Samsung Galaxy A23 (8GB RAM + 128GB),15199,82.0,0,0,0,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Quad Rear ,1.0,Android v12
+610,625,625,625,xiaomi,Xiaomi 11T Pro 5G (8GB RAM + 256GB),32999,87.0,1,1,1,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+611,626,626,626,samsung,Samsung Galaxy A04s,11999,70.0,0,0,0,Exynos 850,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Triple Rear ,1.0,Android v12
+612,627,627,627,xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),14999,83.0,1,0,1,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v11
+613,628,628,628,vivo,Vivo V23e 5G,21499,84.0,1,0,0,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 128,8,4050 ,1.0,6.44,1080 x 2400 px, 44 MP Front Camera, Triple Rear ,1.0,Android v12
+614,629,629,629,samsung,Samsung Galaxy Z Fold 4,115999,,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4400 ,1.0,7.6,1812 x 2176 px, 10 MP + 4 MP Dual Front Camera, + 4 ,,Android v12
+615,630,630,630,xiaomi,Xiaomi Mi 11 Lite NE 5G,20999,83.0,1,1,1,Snapdragon  778G ,Octa Core, 2.4GHz Processor, 128,6,4250 ,1.0,6.55,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,1.0,Android v11
+616,631,631,631,oneplus,OnePlus Nord N200,16990,75.0,1,1,0,Snapdragon  480 ,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.49,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+617,632,632,632,realme,Realme GT 2 5G,31990,84.0,1,1,0,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 128,8,5000 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+618,633,633,633,apple,Apple iPhone SE 3 2022,43900,,1,1,0,Bionic  A15,Hexa Core, 3.22GHz Processor,64,,,,4.7,750 x 1334 px, 7 MP Front Camera, Rear ,1.0,iOS v15
+619,634,634,634,vivo,Vivo V21 5G,21500,85.0,1,0,0,Dimensity 800U,Octa Core, 2.4GHz Processor, 128,8,4000 ,1.0,6.44,1080 x 2400 px, 44 MP Front Camera, Triple Rear ,1.0,Android v11
+620,635,635,635,poco,Poco X3 Pro,18999,82.0,0,0,1,Snapdragon 860,Octa Core, 2.96GHz Processor, 128,6,5160 ,1.0,6.67,1080 x 2400 px, 20 MP Front Camera, Quad Rear ,1.0,Android v11
+621,636,636,636,iqoo,iQOO 7,29399,83.0,1,1,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,8,4400 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+622,637,637,637,samsung,Samsung Galaxy S20 Ultra 5G,99999,,1,1,0,Exynos 990,Octa Core, 2.73GHz Processor, 128,12,5000 ,1.0,6.9,1440 x 3200 px, 40 MP Front Camera, Quad Rear ,1.0,Android v10.0
+623,639,639,639,xiaomi,Xiaomi Redmi K70E,35999,87.0,1,1,1,Dimensity 9200 plus,Octa Core, 3.35GHz Processor, 256,8,5500 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v13
+624,640,640,640,motorola,Motorola Moto G Power 5G 2024,25999,82.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 256,6,5000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+625,641,641,641,lava,Lava Blaze 2 Pro,8799,75.0,0,0,0,Tiger   T616,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.5,1600 x 720 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+626,642,642,642,vivo,Vivo Y33t 4G 2023,8499,71.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+627,643,643,643,motorola,Motorola Moto G86,24999,86.0,1,0,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,8,5000 ,1.0,6.56,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+628,645,645,645,lava,Lava Blaze 5G (8GB RAM + 128GB),10999,77.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,8,5000 ,0.0,6.5,1600 x 720 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+629,646,646,646,motorola,Motorola Moto G15,12990,79.0,0,1,0,Helio G85,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.56,1080 x 1920 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+630,647,647,647,ikall,iKall S1 Plus,9479,66.0,0,0,0,unisoc,Quad Core, 1.6GHz Processor, 128,6,6000 ,0.0,6.8,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+631,648,648,648,vivo,Vivo V27s,24999,82.0,1,0,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+632,649,649,649,itel,itel A60s,5999,,0,0,0,Unisoc  SC9863A1,Octa Core, Octa Core Processor, 64,4,5000 ,1.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+633,651,651,651,honor,Honor Play 8T,14990,78.0,1,0,0,Dimensity 6080,Octa Core, 2.4GHz Processor, 256,8,6000 ,1.0,6.8,1080 x 2412 px, 8 MP Front Camera, Dual Rear ,,Android v13
+634,652,652,652,motorola,Motorola Moto G42 5G,13990,77.0,1,1,0,Snapdragon 4 Gen1,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.47,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+635,653,653,653,xiaomi,Xiaomi Mix Fold 4,119990,87.0,1,1,1,Snapdragon  8 Gen3,Octa Core, Octa Core Processor, 512,12,5000 ,1.0,8.2,1914 x 2160 px, 50 MP Front Camera, Triple Rear ,,Android v14
+636,654,654,654,unihertz,Unihertz Jelly Star,11500,71.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,2000 ,0.0,3.03,480 x 854 px, 8 MP Front Camera, Rear ,1.0,Android v13
+637,655,655,655,tecno,Tecno Phantom V Flip,54999,88.0,1,1,0,Dimensity 8050,Octa Core, 3GHz Processor, 256,8,4000 ,1.0,6.9,1080 x 2640 px, 32 MP Front Camera, Dual Rear ,1.0,
+638,656,656,656,nokia,Nokia Oxygen Ultra 5G,59990,,1,0,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.9,1400 x 3200 px, 32 MP Front Camera, Penta Rear ,1.0,Android v13
+639,658,658,658,apple,Apple iPhone 16,82900,75.0,1,1,0,Bionic A17,Octa Core, Octa Core Processor, 128,8,3500 ,1.0,6.4,1200 x 2600 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v18
+640,659,659,659,infinix,Infinix Hot 30i (4GB RAM+ 64GB),7499,71.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.6,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+641,660,660,660,iqoo,iQOO Z7 5G (8GB RAM + 128GB),19999,84.0,1,0,0,Dimensity 920,Octa Core, 2.5GHz Processor, 128,8,4500 ,1.0,6.38,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+642,661,661,661,vivo,Vivo Y02 (2GB RAM + 32GB),9499,,0,0,0,Helio,Octa Core, Octa Core Processor, 32,2,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+643,662,662,662,oppo,Oppo Reno 8T 4G,19999,86.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+644,663,663,663,sony,Sony Xperia Ace IV,19990,80.0,0,1,0,Snapdragon 4 Gen 1,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+645,665,665,665,tecno,Tecno Phantom X2 Pro,44999,89.0,1,1,0,Dimensity 9000,Octa Core, 3.05GHz Processor, 256,12,5160 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+646,666,666,666,google,Google Pixel Fold,146990,,1,1,0,Google  Tensor G2,Octa Core, 2.85GHz Processor, 256,12,4821 ,1.0,7.6,1840 x 2208 px, 9.5 MP + 8 MP Dual Front Camera, + 8 ,,Android v13
+647,667,667,667,vivo,Vivo Y02,7137,,0,0,0,Helio,Octa Core, Octa Core Processor, 32,3,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+648,668,668,668,honor,Honor Magic 5 Pro,103999,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,12,5100 ,1.0,6.81,1312 x 2848 px, 12 MP Dual Front Camera, Quad Rear ,,Android v13
+649,669,669,669,xiaomi,Xiaomi Redmi K60,29990,84.0,1,1,1,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,5500 ,1.0,6.67,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+650,670,670,670,tecno,Tecno Spark 9 (4GB RAM + 64GB),6949,65.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 64,4,5000 ,0.0,6.6,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+651,671,671,671,realme,Realme C35 (6GB RAM + 128GB),13999,75.0,0,0,0,Tiger  T616,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+652,672,672,672,oppo,OPPO Reno 8 Z,26990,86.0,1,1,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 256,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+653,673,673,673,oppo,OPPO F23 Pro,19990,82.0,1,0,0,Snapdragon  695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+654,674,674,674,vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),24990,84.0,1,0,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,8,4700 ,1.0,6.44,1080 x 2404 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+655,675,675,675,vivo,Vivo T2 5G (2022),24990,85.0,1,0,0,Snapdragon  870,Octa Core, 3.2GHz Processor, 128,8,4700 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+656,676,676,676,vivo,Vivo T1 44W,14490,77.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,4,5000 ,1.0,6.44,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+657,677,677,677,motorola,Motorola Moto G82 5G,19999,83.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+658,678,678,678,poco,Poco X4 Pro 5G (8GB RAM + 128GB),16999,84.0,1,0,1,Snapdragon 695 ,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+659,679,679,679,poco,Poco F4 5G,27999,82.0,1,1,0,Snapdragon  870,Octa Core, 3.2GHz Processor, 128,6,4500 ,1.0,6.67,1080 x 2400 px, 20 MP Front Camera, Triple Rear ,,Android v12
+660,680,680,680,oneplus,OnePlus Nord CE 2 5G (8GB RAM + 128GB),24999,85.0,1,1,0,Dimensity 900,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+661,681,681,681,honor,Honor 60 SE 5G,24990,75.0,1,0,0,Dimensity 900,Octa Core, 2GHz Processor, 128,8,4300 ,1.0,6.67,1080 x 2340 px, 16 MP Front Camera, Triple Rear ,,Android v11
+662,682,682,682,oppo,OPPO Reno7 Pro 5G,35890,87.0,1,1,0,Dimensity  1200 Max,Octa Core, 3GHz Processor, 256,12,4500 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+663,683,683,683,oppo,OPPO Reno7 5G,27390,85.0,1,1,0,Dimensity 900,Octa Core, 2GHz Processor, 256,8,4500 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+664,684,684,684,apple,Apple iPhone 13 (512GB),69499,80.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 512,4,3240 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v15
+665,685,685,685,oneplus,OnePlus 9RT 5G,34899,85.0,1,1,0,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 128,8,4500 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+666,686,686,686,samsung,Samsung Galaxy M21 2021,10999,76.0,0,0,0,Exynos 9611,Octa Core, 2.3GHz Processor, 64,4,6000 ,1.0,6.4,1080 x 2340 px, 20 MP Front Camera, Triple Rear ,1.0,Android v11
+667,687,687,687,xiaomi,Xiaomi Mi 11i 5G,21499,81.0,1,0,1,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 128,6,5160 ,1.0,6.67,2400 x 1080 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+668,688,688,688,xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),18820,82.0,0,0,1,Snapdragon  732G,Octa Core, 2.3GHz Processor, 128,6,5020 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+669,689,689,689,poco,POCO M2 Pro (6GB RAM + 64GB),10480,78.0,0,0,1,Snapdragon 720G,Octa Core, 2.3GHz Processor, 64,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v10.0
+670,690,690,690,htc,HTC U20 5G,15999,87.0,1,1,0,Snapdragon 765G ,Octa Core, 2.4GHz Processor, 256,8,5000 ,1.0,6.8,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v10
+671,691,691,691,vivo,Vivo U3,9990,72.0,0,0,0,Snapdragon  675,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.53,1080 x 2340 px, 16 MP Front Camera, Triple Rear ,1.0,Android v9.0 (Pie)
+672,692,692,692,xiaomi,Xiaomi Mi Mix Alpha,199990,,1,0,0,Snapdragon 855+,Octa Core, 2.96GHz Processor, 512,12,4050 ,1.0,7.92,2088 x 2250 px,, + 12 ,1.0,Android v10
+673,694,694,694,google,Google Pixel 3 XL,22999,70.0,0,1,0,Snapdragon 845,Octa Core, 2.8GHz Processor, 64,4,3430 ,1.0,6.3,1440 x 2960 px, 8 MP + 8 MP Dual Front Camera, + 8 ,,Android v9.0 (Pie)
+674,696,696,696,oppo,Oppo A18 (4GB RAM + 128GB),11499,65.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,0.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+675,697,697,697,huawei,Huawei Mate 60 RS Ultimate,134990,,1,1,1,Kirin 9000S,Octa Core, 2.62GHz Processor, 512,16,5000 ,1.0,6.82,1260 x 2720 px, 13 MP Front Camera, Triple Rear ,1.0,Hongmeng OS v4.0
+676,698,698,698,xiaomi,Xiaomi Redmi A2 Plus ( 4GB RAM + 128GB),7913,67.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+677,699,699,699,honor,Honor Play 40C,9990,71.0,1,0,0,Snapdragon 480+,Octa Core, 2.2GHz Processor, 128,6,5200 ,0.0,6.56,720 x 1612 px, 5 MP Front Camera, Rear ,1.0,Android v13
+678,701,701,701,xiaomi,Xiaomi Redmi Note 12R,11990,75.0,1,1,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.79,1080 x 2460 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+679,702,702,702,vivo,Vivo Y36 5G,20999,83.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.64,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+680,703,703,703,oppo,Oppo K11x 5G,17490,80.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+681,704,704,704,xiaomi,Xiaomi Redmi K70,39990,88.0,1,1,1,Snapdragon  8 Gen3,Octa Core, 3.3GHz Processor, 256,8,5500 ,1.0,6.73,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v13
+682,705,705,705,samsung,Samsung Galaxy A56,43990,80.0,1,1,0,Exynos,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.72,1080 x 2340 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+683,706,706,706,motorola,Motorola Edge 50,55990,78.0,1,1,0,Dimensity 9200,Octa Core, Octa Core Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v14
+684,707,707,707,gionee,Gionee G14 Pro,7990,,0,0,0,Tiger  T610,Octa Core, 1.8GHz Processor, 64,4,4000 ,0.0,6.67,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,HarmonyOS v3
+685,709,709,709,oneplus,OnePlus Nord N30 5G,24990,87.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.72,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+686,710,710,710,vivo,Vivo Y16 (4GB RAM + 128GB),11368,69.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 128,4,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+687,711,711,711,vivo,Vivo Y100A (8GB RAM + 256GB),21599,83.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,8,4500 ,1.0,6.38,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+688,712,712,712,vivo,Vivo V29 Lite,31990,81.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+689,714,714,714,vivo,Vivo Y57,18990,82.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+690,715,715,715,itel,Itel P40,6796,61.0,0,0,0,Spreadtrum  SC9863A,Octa Core, 1.6GHz Processor, 64,4,6000 ,1.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+691,716,716,716,tecno,Tecno Spark Go 2023,6589,62.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 32,3,5000 ,1.0,6.56,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+692,717,717,717,vivo,Vivo X Flip,71990,89.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4400 ,1.0,6.74,1080 x 2520 px, 32 MP Front Camera, Dual Rear ,1.0,
+693,718,718,718,oppo,OPPO Find N2 Flip,89999,89.0,1,1,0,Dimensity 9000 Plus,Octa Core, 3.2GHz Processor, 256,8,4300 ,1.0,6.8,1080 x 2520 px, 32 MP Front Camera, Dual Rear ,1.0,
+694,719,719,719,oneplus,OnePlus Ace 2,34999,87.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+695,720,720,720,sony,Sony Xperia 10 V,39999,84.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.1,1080 x 2520 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+696,721,721,721,oppo,Oppo A98,24990,86.0,1,1,1,Snapdragon 695,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.72,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+697,722,722,722,honor,Honor Magic V2,102999,,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,16,5000 ,1.0,7.92,2156 x 2344 px, 16 MP Front Camera, Triple Rear ,1.0,
+698,723,723,723,motorola,Motorola Moto G72 4G,17990,82.0,0,0,0,Helio  G99,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+699,724,724,724,vivo,Vivo V25 Pro (12GB RAM + 256GB),32320,86.0,1,0,0,Dimensity 1300,Octa Core, 3GHz Processor, 256,12,4830 ,1.0,6.56,1080 x 2376 px, 32 MP Front Camera, Triple Rear ,,Android v12
+700,725,725,725,vivo,Vivo Y22s,14990,77.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.55,1612 x 720 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+701,726,726,726,oppo,Oppo Find N Fold,99990,,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,8,5000 ,1.0,7.1,1792 x 1920 px, 32 MP Front Camera, Triple Rear ,,Android v12
+702,728,728,728,asus,Asus ROG Phone 7,74999,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,16,6000 ,1.0,6.78,1080 x 2448 px, 32 MP Front Camera, Triple Rear ,,Android v13
+703,729,729,729,samsung,Samsung Galaxy M13,11199,75.0,0,0,0,Exynos  850,Octa Core, 2GHz Processor, 128,6,6000 ,1.0,6.6,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+704,730,730,730,samsung,Samsung Galaxy A04,9990,71.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+705,731,731,731,vivo,Vivo Y75 4G,16780,82.0,0,0,0,Helio G96,Octa Core, 2.05GHz Processor, 128,8,4050 ,1.0,6.44,1080 x 2400 px, 44 MP Front Camera, Triple Rear ,1.0,Android v12
+706,732,732,732,iqoo,iQOO Z8 Pro 5G,22999,70.0,1,0,0,Dimensity 7200,Octa Core, Octa Core Processor, 128,6,4500 ,1.0,6.44,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+707,733,733,733,oneplus,OnePlus Nord 4 5G,29999,83.0,1,1,0,Snapdragon  7 Gen1,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v12
+708,734,734,734,samsung,Samsung Galaxy F63,21999,85.0,1,1,0,Dimensity 900,Octa Core, 2.4GHz Processor, 128,6,7000 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+709,735,735,735,zte,ZTE Axon 40 Ultra 5G,61990,89.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.8,1116 x 2480 px, 16 MP Front Camera, Triple Rear ,,Android v12
+710,736,736,736,poco,Poco M4 5G (6GB RAM + 128GB),12999,79.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.58,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+711,737,737,737,iqoo,iQOO Z6 Pro 5G,23499,78.0,1,0,0,Snapdragon  778G,Octa Core, 2.4GHz Processor, 128,6,4700 ,1.0,6.44,1080 x 2404 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+712,738,738,738,realme,Realme GT Neo 3 5G (8GB RAM + 256GB),26999,83.0,1,1,0,Dimensity  8100,Octa Core, 2.85GHz Processor, 256,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+713,739,739,739,xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),34999,88.0,1,1,1,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v11
+714,740,740,740,realme,Realme C35,9599,71.0,0,0,0,Tiger  T616,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+715,741,741,741,vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),30000,87.0,1,0,0,Dimensity 1200,Octa Core, 3GHz Processor, 256,12,4300 ,1.0,6.56,1080 x 2376 px, 50 MP + 8 MP Dual Front Camera, + 8 ,1.0,Android v12
+716,742,742,742,iqoo,iQOO Neo 6 SE 5G,22990,83.0,1,0,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,8,4700 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+717,743,743,743,realme,Realme GT Master Edition 5G (8GB RAM + 256GB),25999,85.0,1,1,0,Snapdragon  778G ,Octa Core, 2.4GHz Processor, 256,8,4300 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v11
+718,744,744,744,iqoo,iQOO Z3 5G (8GB RAM + 128GB),20990,84.0,1,0,0,Snapdragon 768G,Octa Core, 2.8GHz Processor, 128,8,4400 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+719,745,745,745,xiaomi,Xiaomi Redmi 10,9690,71.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 64,4,6000 ,1.0,6.7,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v11
+720,746,746,746,xiaomi,Xiaomi Redmi Note 11 Pro 5G,17990,81.0,1,0,1,Snapdragon 695,Octa Core, 2.2GHz Processor, 64,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+721,747,747,747,iqoo,iQOO Z3,19990,81.0,1,0,0,Snapdragon 768G,Octa Core, 2.8GHz Processor, 128,6,4400 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+722,748,748,748,oppo,OPPO A74 5G,17990,77.0,1,0,0,Snapdragon  480 ,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.5,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+723,749,749,749,xiaomi,Xiaomi Mi 10i,18999,84.0,1,0,1,Snapdragon  750G,Octa Core, 2.2GHz Processor, 128,6,4820 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v10
+724,750,750,750,sony,Sony Xperia Pro 5G,179990,84.0,1,1,0,Snapdragon  865,Octa Core, 2.84GHz Processor, 512,8,4000 ,1.0,6.5,1644 x 3840 px, 8 MP Front Camera, Quad Rear ,1.0,Android v10
+725,751,751,751,samsung,Samsung Galaxy S20 Plus,39890,88.0,0,1,0,Exynos 990,Octa Core, 2.73GHz Processor, 128,8,4500 ,1.0,6.7,1440 x 3200 px, 10 MP Front Camera, Quad Rear ,1.0,Android v10
+726,752,752,752,xiaomi,Xiaomi Redmi 9A,6349,61.0,0,0,0,Helio G25,Octa Core, 2GHz Processor, 32,2,5000 ,0.0,6.53,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v10
+727,753,753,753,samsung,Samsung Galaxy A52,24490,83.0,0,0,0,Snapdragon  720G,Octa Core, 2.3GHz Processor, 128,6,4500 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v11
+728,754,754,754,apple,Apple iPhone 11 Pro Max,95699,77.0,0,1,0,A13 Bionic,Hexa Core, 2.65GHz Processor, 64,4,3500 ,1.0,6.5,1242 x 2688 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v13
+729,755,755,755,samsung,Samsung Galaxy A40,17990,69.0,0,0,0,Samsung Exynos 7885,Octa Core, 2.2GHz Processor, 64,4,3100 ,1.0,5.9,1080 x 2340 px, 25 MP Front Camera, Dual Rear ,1.0,Android v9.0 (Pie)
+730,757,757,757,ikall,iKall Z14 Pro,8399,63.0,0,0,0,Quad Core,Quad Core, 1.6GHz Processor, 128,6,5000 ,0.0,6.5,720 x 1600 px, 8 MP Front Camera, Rear ,1.0,Android v11
+731,758,758,758,xiaomi,Xiaomi Redmi 13C 5G,14999,65.0,1,0,0,Dimensity 6100 Plus,Octa Core, Octa Core Processor, 64,4,5000 ,0.0,6.7,720 x 1650 px, 8 MP Front Camera, + Depth Sensor Dual Rear ,1.0,Android v12
+732,759,759,759,samsung,Samsung Galaxy A15 5G,17990,68.0,1,1,0,Octa Core Processor,,Octa Core Processor, 64,4,5000 ,1.0,6.4,1080 x 2408 px, 13 MP Front Camera, Dual Rear ,1.0,Android v14
+733,760,760,760,doogee,Doogee V30 Pro,36990,,1,1,0,Dimensity 7050,Octa Core, 2.6GHz Processor, 512,12,10800 ,1.0,6.58,1080 x 2408 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+734,761,761,761,xiaomi,Xiaomi Redmi Note 13R Pro,17999,81.0,1,1,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+735,762,762,762,cubot,Cubot KingKong Star,25999,84.0,1,1,0,Dimensity 700,Octa Core, 2.2GHz Processor, 256,12,10600 ,1.0,6.78,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+736,763,763,763,ikall,iKall S2 Pro,9489,63.0,0,0,0,Quad Core Processor,,Quad Core Processor, 128,6,6000 ,0.0,6.8,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v13
+737,764,764,764,huawei,Huawei Mate X5,169999,84.0,0,1,1,Kirin  9000s,Octa Core, Octa Core Processor, 512,12,5060 ,1.0,7.85,2224 x 2496 px, 8 MP Front Camera, Triple Rear ,1.0,
+738,765,765,765,asus,Asus ROG Phone 8,79990,84.0,1,1,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 512,16,6000 ,1.0,6.82,1080 x 2448 px, 32 MP Front Camera, Triple Rear ,,Android v14
+739,766,766,766,motorola,Motorola Moto G55,29999,86.0,1,0,0,Snapdragon  7+ Gen2,Octa Core, 2.91GHz Processor, 256,12,5000 ,1.0,6.55,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,1.0,Android v14
+740,767,767,767,samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 1TB),184999,,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 1,12,4400 ,1.0,7.6,1812 x 2176 px, 10 MP + 4 MP Dual Front Camera, + 4 ,,Android v13
+741,768,768,768,ikall,iKall K333 Plus,3420,,0,0,0,Quad Core,Quad Core, 1.3GHz Processor, 16,2,3000 ,0.0,2.8,240 x 360 px, 2 MP Front Camera, Rear ,1.0,Android v12
+742,770,770,770,ulefone,Ulefone Armor 21,16499,85.0,0,1,1,Helio G99,Octa Core, 2.2GHz Processor, 256,8,9600 ,1.0,6.58,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+743,771,771,771,realme,Realme GT Neo 5 Pro,39999,85.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,8,5200 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+744,772,772,772,xiaomi,Xiaomi Redmi K70 Ultra,49990,81.0,1,1,1,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.72,1440 x 3200 px, 32 MP Front Camera, Triple Rear ,,Android v14
+745,773,773,773,tecno,Tecno Pova 6,18990,69.0,0,0,0,Dimensity 6080,Octa Core, Octa Core Processor, 128,8,6000 ,1.0,6.8,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+746,774,774,774,oneplus,OnePlus 13,64990,83.0,1,1,0,Snapdragon 8 Gen4,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.82,1440 x 3420 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+747,775,775,775,samsung,Samsung Galaxy S24 FE,59999,88.0,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.58,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v14
+748,776,776,776,huawei,Huawei Nova 11i,23999,80.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.8,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,No FM Radio
+749,777,777,777,infinix,Infinix Smart 7 HD,5999,61.0,0,0,0,Spreadtrum SC9863A1,Octa Core, 1.6GHz Processor, 64,2,5000 ,1.0,6.6,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+750,778,778,778,iqoo,iQOO 13 Pro,72990,85.0,1,1,0,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 512,12,5000 ,1.0,6.8,1440 x 3200 px, 60 MP Front Camera, Triple Rear ,,Android v14
+751,779,779,779,xiaomi,Xiaomi Redmi Note 15 Pro Plus,35990,79.0,1,0,1,Dimensity 8020,Octa Core, Octa Core Processor, 256,8,5000 ,1.0,6.78,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,1.0,Android v15
+752,780,780,780,vivo,Vivo Y22 (4GB RAM + 128GB),13140,73.0,0,0,0,Helio G70,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.55,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+753,781,781,781,tecno,Tecno Spark Go 2023 (4GB RAM + 64GB),7229,65.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 64,4,5000 ,1.0,6.56,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+754,782,782,782,huawei,Huawei Nova 11,29990,74.0,0,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor,256,,4500 ,1.0,6.7,1084 x 2412 px, 60 MP Front Camera, Dual Rear ,1.0,No FM Radio
+755,783,783,783,sony,Sony Xperia 5V,88990,88.0,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.1,1080 x 2520 px, 12 MP Front Camera, Dual Rear ,1.0,Android v13
+756,784,784,784,nokia,Nokia C32,8499,68.0,0,0,0,Unisoc SC9863A,Octa Core, 1.6GHz Processor, 64,4,5000 ,0.0,6.52,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+757,785,785,785,lava,Lava Yuva 2 Pro,7798,65.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,1600 x 720 px, 5 MP Front Camera, Triple Rear ,1.0,Android v12
+758,786,786,786,motorola,Motorola Moto X50,49990,83.0,1,1,0,Snapdragon 8+ Gen2,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+759,787,787,787,samsung,Samsung Galaxy A14 4G,12999,74.0,0,0,0,Exynos  850,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 13 MP Front Camera, Triple Rear ,1.0,Android v13
+760,788,788,788,lava,Lava Blaze 5G (6GB RAM + 128GB),9999,75.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,0.0,6.5,1600 x 720 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+761,789,789,789,blackview,Blackview BV5200 Pro,8990,67.0,1,1,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5180 ,1.0,6.1,720 x 1560 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+762,790,790,790,samsung,Samsung Galaxy F14,14990,66.0,0,1,0,Octa Core Processor,,Octa Core Processor, 64,4,6000 ,1.0,6.62,2408 x 1080 px, 13 MP Front Camera, Dual Rear ,1.0,Android v13
+763,791,791,791,motorola,Motorola Edge 40 Fusion,42990,87.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4500 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+764,792,792,792,vivo,Vivo Y35 5G,13999,70.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+765,793,793,793,xiaomi,Xiaomi Redmi K60i,28999,85.0,1,0,1,Dimensity  8200,Octa Core, 3.1GHz Processor, 128,8,5080 ,1.0,6.67,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,,Android v13
+766,794,794,794,vivo,Vivo S17 Pro,35990,86.0,1,1,0,Dimensity 8200,Octa Core, 3.1GHz Processor, 256,8,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Triple Rear ,,Android v13
+767,795,795,795,oneplus,OnePlus Nord 5,34999,85.0,1,1,0,Dimensity  9200 Plus,Octa Core, 3.35GHz Processor, 128,8,5000 ,1.0,6.57,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+768,796,796,796,nubia,Nubia Z60 Ultra,49990,89.0,1,1,1,Snapdragon 8 gen3,Octa Core, 3.3GHz Processor, 256,8,5000 ,1.0,6.82,1116 x 2480 px, 32 MP Front Camera, Triple Rear ,,Android v14
+769,797,797,797,apple,Apple iPhone SE 4,49990,60.0,1,1,0,Bionic  A15,Hexa Core, 3.22GHz Processor,64,,,,6.1,750 x 1580 px, 10.8 MP Front Camera, Rear ,1.0,iOS v16
+770,798,798,798,realme,Realme C33 (4GB RAM + 64GB),9999,67.0,0,0,0,Unisoc T612,Octa Core, 1.8GHz Processor, 64,4,5000 ,0.0,6.5,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+771,799,799,799,poco,Poco M6 Pro,12990,82.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 128,8,5100 ,1.0,6.73,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+772,800,800,800,poco,Poco C50,5999,,0,0,0,Helio A22,Quad Core, 2GHz Processor, 32,2,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+773,801,801,801,infinix,Infinix Zero 20,17999,87.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.7,1080 x 2400 px, 60 MP Front Camera, Triple Rear ,1.0,Android v12
+774,802,802,802,vivo,Vivo Y02s,8990,61.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 32,3,5000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+775,803,803,803,samsung,Samsung Galaxy M13 (4GB RAM + 64GB),9199,71.0,0,0,0,Exynos  850,Octa Core, 2GHz Processor, 64,4,6000 ,1.0,6.6,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+776,804,804,804,nokia,Nokia 8210 4G,3749,,0,0,0,Unisoc T107,,Unisoc T107, 128,48,1450 ,0.0,2.8,240 x 320 px,,0.3 ,1.0,
+777,805,805,805,nubia,Nubia Z50,34999,82.0,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v13
+778,806,806,806,infinix,Infinix Note 12 Pro 5G,18999,84.0,1,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+779,807,807,807,vivo,Vivo Y77 5G,17990,76.0,1,0,0,Dimensity  930,Octa Core, 2.2GHz Processor, 128,6,4500 ,1.0,6.64,1080 x 2388 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+780,808,808,808,motorola,Motorola Moto G52 5G,14999,76.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.6,2460 x 1080 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+781,809,809,809,vivo,Vivo T1 44W (8GB RAM + 128GB),17970,82.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.44,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+782,810,810,810,oppo,OPPO F21 Pro 4G,19989,82.0,0,0,0,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+783,811,811,811,samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),24990,85.0,1,1,0,Exynos  1280,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.4,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v12
+784,812,812,812,iqoo,iQOO 9 Pro 5G (12GB RAM + 256GB),44990,88.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,12,4700 ,1.0,6.78,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v12
+785,813,813,813,xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),11190,79.0,0,0,1,Snapdragon  680,Octa Core, 2.4GHz Processor, 64,6,5000 ,1.0,6.43,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+786,814,814,814,realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),28881,82.0,1,0,0,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 256,8,4500 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+787,815,815,815,xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),21899,86.0,1,0,1,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 128,8,4500 ,1.0,6.67,2400 x 1080 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+788,816,816,816,realme,Realme GT 2 Fold 5G,94990,88.0,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,8,1080 x 2460 px, 16 MP Front Camera, Dual Rear ,,Android v11
+789,817,817,817,samsung,Samsung Galaxy Z Flip 4 5G,79999,88.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,3700 ,1.0,6.7,1080 x 2640 px, 10 MP Front Camera, Dual Rear ,1.0,
+790,818,818,818,apple,Apple iPhone 13 Pro Max (1TB),179900,86.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 1,6,4352 ,1.0,6.7,1284 x 2778 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v15
+791,819,819,819,tecno,Tecno Spark 8 Pro,8099,72.0,0,0,0,Helio G85 ,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.8,1080 x 2460 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+792,820,820,820,samsung,Samsung Galaxy M32 (6GB RAM + 128GB),14999,80.0,0,0,0,Helio G80,Octa Core, 2GHz Processor, 128,6,6000 ,1.0,6.4,1080 x 2400 px, 20 MP Front Camera, Quad Rear ,1.0,Android v11
+793,821,821,821,vivo,Vivo Y12a,9999,65.0,0,0,0,Snapdragon  439 ,Octa Core, 2GHz Processor, 32,3,5000 ,0.0,6.51,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v11
+794,822,822,822,vivo,Vivo X70 Pro Plus 5G,54990,,1,1,0,Snapdragon  888+,Octa Core, 2.9GHz Processor, 256,12,4500 ,1.0,6.78,1440 x 3200 px, 32 MP Front Camera, Quad Rear ,,Android v11
+795,823,823,823,samsung,Samsung Galaxy A22,12990,76.0,0,0,0,Helio G80,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.4,720 x 1600 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+796,824,824,824,oppo,Oppo Reno 5 Pro 5G,31988,84.0,1,0,0,Dimensity 1000+,Octa Core, 2.6GHz Processor, 128,8,4350 ,1.0,6.53,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,,Android v11
+797,825,825,825,sony,Sony Xperia 10 II,27999,75.0,0,1,0,Snapdragon  665,Octa Core, 2GHz Processor, 128,4,3600 ,1.0,6,1080 x 2520 px, 8 MP Front Camera, Triple Rear ,1.0,Android v10.0
+798,826,826,826,samsung,Samsung Galaxy A12,10949,71.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1560 px, 8 MP Front Camera, Quad Rear ,1.0,Android v10
+799,827,827,827,oneplus,OnePlus 8,33990,81.0,1,1,0,Snapdragon 865,Octa Core, 2.84GHz Processor, 128,6,4300 ,1.0,6.55,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v10.0
+800,828,828,828,samsung,Samsung Galaxy A30s,11999,71.0,0,0,0,Exynos  7904,Octa Core, 1.8GHz Processor, 64,4,4000 ,1.0,6.4,720 x 1560 px, 16 MP Front Camera, Triple Rear ,1.0,Android v9.0 (Pie)
+801,829,829,829,xiaomi,Xiaomi Poco F1,10750,77.0,0,0,0,Snapdragon 845,Octa Core, 2.8GHz Processor, 64,6,4000 ,1.0,6.18,1080 x 2246 px, 20 MP Front Camera, Dual Rear ,1.0,Android v8.1 (Oreo)
+802,830,830,830,nokia,Nokia 3310 4G,3999,,0,0,0,,,, 512,256,1200 ,0.0,2.4,240 x 320 px,,2 ,1.0,Bluetooth
+803,831,831,831,vivo,Vivo Y25,7499,,0,0,0,Helio MT6580,Quad Core, 1.3GHz Processor, 16,1,1900 ,0.0,4.5,480 x 854 px, 2 MP Front Camera, Rear ,1.0,Android v5.1 (Lollipop)
+804,832,832,832,cubot,Cubot KingKong 8,15999,78.0,0,1,0,Helio MT8788V,Octa Core, 2GHz Processor, 256,12,10600 ,0.0,6.53,720 x 1612 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+805,834,834,834,blackview,Blackview A96,13999,79.0,0,1,0,Helio  G99,Octa Core, 2.2GHz Processor, 256,8,4380 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,,Android v13
+806,835,835,835,apple,Apple iPhone 15 Plus (512GB),119900,86.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 512,6,4383 ,1.0,6.7,1290 x 2796 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+807,836,836,836,apple,Apple iPhone 15 (512GB),109900,85.0,1,1,0,Bionic  A16,Hexa Core, 3.46GHz Processor, 512,6,3349 ,1.0,6.1,1179 x 2556 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v17
+808,837,837,837,tecno,Tecno Camon 20 Avocado Art Edition,14899,83.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+809,838,838,838,xiaomi,Xiaomi Redmi 13 4G,10999,75.0,0,0,1,Helio G99,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.8,1080 x 2460 px, 8 MP Front Camera, Triple Rear ,1.0,Android v14
+810,839,839,839,honor,Honor Play 50 Plus,13999,81.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 256,8,6000 ,1.0,6.8,1080 x 2412 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+811,840,840,840,tecno,Tecno Spark Go 2024,7999,66.0,0,0,0,Unisoc T606,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.67,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+812,841,841,841,infinix,Infinix Hot 40 5G,16999,76.0,1,1,0,Dimensity 6100 Plus,Octa Core, Octa Core Processor, 128,8,6000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+813,843,843,843,fairphone,Fairphone 5,63990,,1,1,0,Snapdragon QCM6490,Octa Core, 2.7GHz Processor, 256,8,4200 ,1.0,6.46,1224 x 2700 px, 50 MP Front Camera, + Depth Sensor Triple Rear ,1.0,Android v13
+814,844,844,844,nubia,Nubia Neo,15990,80.0,1,1,0,Unisoc T820,Octa Core, 2.7GHz Processor, 256,8,4500 ,0.0,6.6,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+815,845,845,845,samsung,Samsung W24,159999,,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4500 ,1.0,7.63,1812 x 2176 px, 10 MP + 4 MP Dual Front Camera, + 4 ,,Android v13
+816,846,846,846,sony,Sony Xperia Pro-I II,139990,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 512,12,4700 ,1.0,6.67,1644 x 3840 px, 12 MP Front Camera, Triple Rear ,1.0,Android v13
+817,847,847,847,samsung,Samsung Galaxy F44,24990,75.0,1,1,0,Exynos,Octa Core, Octa Core Processor, 128,8,5000 ,1.0,6.67,1080 x 2408 px, 1 MP Front Camera, Triple Rear ,1.0,Android v13
+818,848,848,848,nokia,Nokia C32 (4GB RAM + 128 GB),8779,69.0,0,0,0,Unisoc SC9863A,Octa Core, 1.6GHz Processor, 128,4,5000 ,0.0,6.52,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+819,849,849,849,vivo,Vivo Y18,14990,74.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 64,4,5000 ,1.0,6.58,1200 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v14
+820,850,850,850,vivo,Vivo X110 Pro Plus,99990,89.0,1,1,1,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,4870 ,1.0,6.82,1440 x 3200 px, 60 MP Front Camera, Quad Rear ,,Android v14
+821,851,851,851,xiaomi,Xiaomi 15 Pro,69990,88.0,1,1,1,Snapdragon 8 Gen3,Octa Core, Octa Core Processor, 256,12,4820 ,1.0,6.78,1440 x 3200 px, 60 MP Front Camera, Triple Rear ,1.0,Android v14
+822,852,852,852,vivo,Vivo X90 (12GB RAM + 256GB),63999,89.0,1,1,1,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,12,4810 ,1.0,6.78,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+823,853,853,853,motorola,Motorola Moto G63 5G,16990,74.0,1,0,0,Octa Core Processor,,Octa Core Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+824,854,854,854,motorola,Motorola Moto S40,34990,71.0,1,0,0,Dimensity  8020,Octa Core, Octa Core Processor, 128,6,4600 ,1.0,6.58,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,,Android v14
+825,855,855,855,meizu,Meizu 20 Infinity Unbound Edition,49999,89.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4800 ,1.0,6.79,1368 x 3192 px, 32 MP Front Camera, Triple Rear ,1.0,No FM Radio
+826,856,856,856,lava,Lava Blaze 2 4G,8695,70.0,0,0,0,Tiger  T616 ,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+827,857,857,857,oppo,OPPO A98 5G,24990,82.0,1,0,0,Snapdragon 695 ,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.72,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+828,858,858,858,iqoo,iQOO Z7 5G (China),18990,83.0,1,1,0,Snapdragon 782G,Octa Core, 2.7GHz Processor, 128,8,5000 ,1.0,6.64,1080 x 2388 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+829,859,859,859,tecno,Tecno Phantom X3 Pro,54990,80.0,1,1,0,Dimensity 9200 Plus,Octa Core, Octa Core Processor, 256,12,5500 ,1.0,6.82,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+830,860,860,860,tecno,Tecno Phantom X3,49990,86.0,1,1,0,Dimensity 9200,Octa Core, 3.05GHz Processor, 256,12,5500 ,1.0,6.82,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+831,861,861,861,ulefone,Ulefone Armor 23 Ultra,44990,,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 256,16,7000 ,1.0,6.67,1080 x 2408 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+832,862,862,862,vivo,Vivo S17,28990,84.0,1,1,0,Snapdragon 778G Plus,Octa Core, 2.5GHz Processor, 256,8,4600 ,1.0,6.78,1260 x 2800 px, 50 MP Front Camera, Dual Rear ,,Android v13
+833,863,863,863,realme,Realme GT 3,44990,86.0,1,1,1,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4600 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+834,864,864,864,poco,Poco C50 (3GB RAM + 32GB),5799,61.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 32,3,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+835,865,865,865,vivo,Vivo Y53t,11999,67.0,1,0,0,Dimensity 700,Octa Core, 2GHz Processor, 128,4,6000 ,1.0,6.51,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v13
+836,866,866,866,xiaomi,Xiaomi Mix Fold 3,102990,,1,1,1,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4800 ,1.0,8.03,1916 x 2160 px, 20 MP + 20 MP Dual Front Camera, + 20 ,,Android v13
+837,867,867,867,xiaomi,Xiaomi Redmi K60 Pro,38999,85.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.67,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v13
+838,868,868,868,oppo,OPPO A1 Pro 5G,20990,84.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4800 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+839,869,869,869,infinix,Infinix Hot 20 Play,7499,67.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 64,4,6000 ,1.0,6.82,720 x 1640 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+840,870,870,870,tecno,Tecno Pova 4,9999,73.0,0,0,0,Helio G99,Octa Core, 2.2GHz Processor, 128,8,6000 ,1.0,6.82,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+841,871,871,871,redmi,Redmi Note 11 Pro 2023,18999,81.0,0,0,1,Snapdragon 712,Octa Core, 2.3GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+842,872,872,872,apple,Apple iPhone 15 Ultra,149900,79.0,1,1,0,Bionic  A17,Octa Core, Octa Core Processor, 128,8,4700 ,1.0,6.73,1290 x 2796 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v17
+843,873,873,873,vivo,Vivo V25 (12GB RAM + 256GB),27399,85.0,1,0,0,Dimensity  900,Octa Core, 2GHz Processor, 256,12,4500 ,1.0,6.44,1080 x 2408 px, 50 MP Front Camera, Triple Rear ,1.0,Android v12
+844,874,874,874,realme,Realme C30s,6449,,0,0,0,Unisoc SC9863A,Octa Core, 1.6GHz Processor, 32,2,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v12
+845,875,875,875,motorola,Motorola Moto Edge 30 Neo,31990,85.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,4020 ,1.0,6.28,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,,Android v12
+846,876,876,876,oppo,OPPO A77,12331,70.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.56,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+847,877,877,877,letv,Letv Y2 Pro,6999,,0,0,0,Unisoc,Octa Core, Octa Core Processor, 32,4,4000 ,0.0,6.5,720 x 1560 px, 8 MP Front Camera, + Depth Sensor + Ultra Wide Triple Rear ,,Android v11
+848,878,878,878,samsung,Samsung Galaxy F13 (4GB RAM + 128GB),10199,75.0,0,1,0,Exynos 850,Octa Core, 2GHz Processor, 128,4,6000 ,1.0,6.6,2408 x 1080 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+849,879,879,879,xiaomi,Xiaomi 13 5G,59990,89.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,4500 ,1.0,6.36,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+850,880,880,880,motorola,Motorola Moto G82 (8GB RAM + 128GB),21910,86.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+851,881,881,881,xiaomi,Xiaomi Redmi Note 11T Pro 5G,19990,82.0,1,1,1,Dimensity  8100,Octa Core, 2.85GHz Processor, 128,6,5080 ,1.0,6.6,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+852,882,882,882,motorola,Motorola Moto G23,19999,77.0,0,1,0,Helio  G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.5,720 x 1600 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+853,883,883,883,vivo,Vivo X80 5G (12GB RAM + 256GB),44990,88.0,1,0,0,Dimensity  9000,Octa Core, 3.05GHz Processor, 256,12,4500 ,1.0,6.78,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v12
+854,884,884,884,oppo,Oppo A77 5G,21990,76.0,1,0,0,Snapdragon  810,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.56,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+855,885,885,885,oppo,OPPO F23 Pro Plus 5G,27990,83.0,1,0,0,Snapdragon  7 Gen1,Octa Core, 2.4GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2460 px, 16 MP Front Camera, Quad Rear ,1.0,Android v12
+856,886,886,886,samsung,Samsung Galaxy Note 30 Ultra 5G,104999,,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,4500 ,1.0,6.71,1440 x 3214 px, 10 MP Front Camera, Triple Rear ,1.0,Android v12
+857,887,887,887,motorola,Motorola Moto G52,17999,75.0,0,1,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,2460 x 1080 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+858,888,888,888,poco,Poco X4 Pro 5G (6GB RAM + 128GB),16380,82.0,1,0,1,Snapdragon 695 ,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+859,889,889,889,motorola,Motorola Moto E32,7999,71.0,0,0,0,Helio G37,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+860,890,890,890,oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),74999,,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 512,12,5000 ,1.0,6.7,1440 x 3216 px, 32 MP Front Camera, Triple Rear ,,Android v12.1
+861,891,891,891,oppo,OPPO Reno7 Z 5G,17999,84.0,1,1,0,Snapdragon  695 ,Octa Core, 2.2GHz Processor, 128,8,4500 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+862,892,892,892,nubia,Nubia Z40 Pro 5G,49990,84.0,1,1,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+863,893,893,893,motorola,Motorola Edge 30 5G,24999,83.0,1,1,0,Snapdragon 778G+,Octa Core, 2.5GHz Processor, 128,6,4020 ,1.0,6.5,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v12
+864,894,894,894,tecno,Tecno Spark 9T,7498,72.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+865,895,895,895,motorola,Motorola Moto G22,9999,75.0,0,0,0,Helio  G37,Octa Core, 2.3GHz Processor, 64,4,5000 ,1.0,6.53,720 x 1600 px, 16 MP Front Camera, Quad Rear ,1.0,Android v12
+866,896,896,896,asus,Asus ROG Phone 6 Pro 5G,89999,88.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 512,18,6000 ,1.0,6.78,1080 x 2448 px, 12 MP Front Camera, Triple Rear ,1.0,Android v12
+867,897,897,897,xiaomi,Xiaomi Mix Fold 2 5G,106990,,1,1,1,Snapdragon  8+ Gen1 ,Octa Core, 3.2GHz Processor, 256,12,4500 ,1.0,8.02,1914 x 2160 px, 20 MP Front Camera, Triple Rear ,,Android v12
+868,898,898,898,samsung,Samsung Galaxy A83 5G,39990,86.0,1,1,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,6,4500 ,1.0,6.71,1440 x 3200 px, 10 MP Front Camera, Triple Rear ,1.0,Android v11
+869,899,899,899,xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),13499,82.0,0,0,1,Helio G95,Octa Core, 2.05GHz Processor, 128,8,5000 ,1.0,6.43,1080 x 2400 px, 13 MP Front Camera, Quad Rear ,1.0,Android v11
+870,900,900,900,motorola,Motorola Moto Edge S30 5G,23990,85.0,1,0,0,Snapdragon 888+ ,Octa Core, 2.9GHz Processor, 128,6,5000 ,1.0,6.8,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,,Android v11
+871,901,901,901,oppo,OPPO A55s 5G,14990,74.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,0.0,6.5,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+872,902,902,902,xiaomi,Xiaomi Redmi Note 11T 5G,15646,79.0,1,0,1,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 64,6,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v11
+873,903,903,903,oppo,Oppo A56 5G,17990,73.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,6,5000 ,0.0,6.5,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v11
+874,904,904,904,realme,Realme 9 Pro Plus 5G,27999,78.0,1,0,0,Dimensity  920 5G,Octa Core, 2.5GHz Processor, 128,6,4500 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+875,905,905,905,samsung,Samsung Galaxy A03,9999,67.0,0,0,0,Unisoc  T606,Octa Core, 2GHz Processor, 32,3,5000 ,1.0,6.5,720 x 1560 px, 5 MP Front Camera, Dual Rear ,1.0,Android v11
+876,906,906,906,poco,Poco M4 Pro 5G (6GB RAM + 128GB),16899,81.0,1,0,1,Dimensity  810 5G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v11
+877,907,907,907,motorola,Motorola Moto G51 5G,14999,77.0,1,1,0,Snapdragon  480+,Octa Core, 2.2GHz Processor, 64,4,5000 ,0.0,6.8,1080 x 2400 px, 13 MP Front Camera, Triple Rear ,1.0,Android v11
+878,908,908,908,iqoo,iQOO Z5 5G (12GB RAM + 256GB),25990,84.0,1,0,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+879,909,909,909,vivo,Vivo Y21s,14990,74.0,0,0,0,Helio G80,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.51,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+880,910,910,910,sony,Sony Xperia 10 III Lite 5G,30990,78.0,1,1,0,Snapdragon  690 ,Octa Core, 2GHz Processor, 64,6,4500 ,1.0,6,1080 x 2520 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+881,911,911,911,micromax,Micromax IN Note 2,9990,74.0,0,0,0,Helio G95,Octa Core, 2.05GHz Processor, 64,4,5000 ,1.0,6.43,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v11
+882,912,912,912,tecno,Tecno Phantom X,21999,84.0,0,0,0,Helio G95,Octa Core, 2.05GHz Processor, 256,8,4700 ,1.0,6.7,1080 x 2340 px, 48 MP + 8 MP Dual Front Camera, + 8 ,,Android v11
+883,913,913,913,vivo,Vivo Y73 2021,18990,80.0,0,0,0,Helio G95,Octa Core, 2.05GHz Processor, 128,8,4000 ,1.0,6.44,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+884,914,914,914,asus,Asus ROG Phone 6,71999,86.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,12,6000 ,1.0,6.78,1080 x 2448 px, 12 MP Front Camera, Triple Rear ,1.0,Android v12
+885,915,915,915,realme,Realme 9 4G,16790,81.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+886,916,916,916,motorola,Motorola Moto G40 Fusion,12999,77.0,0,0,0,Snapdragon  732G,Octa Core, 2.3GHz Processor, 64,4,6000 ,1.0,6.78,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+887,917,917,917,zte,ZTE Axon 30 Ultra,52999,89.0,1,1,0,Snapdragon 888,Octa Core, 2.84GHz Processor, 256,8,4600 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,,Android v11
+888,918,918,918,realme,Realme 8i,11199,74.0,0,0,0,Helio G96,Octa Core, 2.05GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+889,919,919,919,oppo,OPPO Reno 6,26999,83.0,1,1,0,Dimensity 900,Octa Core, 2GHz Processor, 128,8,4300 ,1.0,6.43,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v11
+890,920,920,920,xiaomi,Xiaomi Mi Mix Fold,109990,,1,1,1,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 256,12,5020 ,1.0,8.01,1860 x 2480 px, 20 MP Front Camera, Triple Rear ,,Android v10
+891,921,921,921,xiaomi,Xiaomi Redmi Note 10 5G,12490,76.0,1,0,1,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,1.0,6.5,1080 x 2400 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+892,922,922,922,iqoo,iQOO 9 5G,42990,84.0,1,0,0,Snapdragon  888+,Octa Core, 2.9GHz Processor, 128,8,4350 ,1.0,6.56,1080 x 2376 px, 16 MP Front Camera, Triple Rear ,,Android v12
+893,923,923,923,samsung,Samsung Galaxy S21 5G (8GB RAM + 256GB),73999,88.0,1,1,0,Exynos  2100,Octa Core, 2.9GHz Processor, 256,8,4000 ,1.0,6.2,1080 x 2400 px, 10 MP Front Camera, Triple Rear ,,Android v10
+894,924,924,924,sony,Sony Xperia 10 III,34999,79.0,1,1,0,Snapdragon  690 ,Octa Core, 2GHz Processor, 128,6,4500 ,1.0,6,1080 x 2520 px, 8 MP Front Camera, Triple Rear ,1.0,Android v11
+895,925,925,925,oppo,OPPO X 2021,134999,86.0,0,0,0,Snapdragon 865,Octa Core, 2.84GHz Processor, 256,8,4000 ,1.0,7.4,1440 x 3200 px, 16 MP Front Camera, Triple Rear ,,Android v11
+896,926,926,926,micromax,Micromax IN Note 1 (4GB RAM + 128GB),7990,75.0,0,0,0,Helio G85,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v10
+897,927,927,927,apple,Apple iPhone 12 (256GB),63999,76.0,1,1,0,Bionic A14,Hexa Core, 3.1GHz Processor, 256,4,,,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v14
+898,928,928,928,nokia,Nokia 225 4G,3479,,0,0,0,Unisoc T117,,Unisoc T117, 128,64,1150 ,0.0,2.4,240 x 320 px,,0.3 ,1.0,RTOS (Series 30+)
+899,929,929,929,xiaomi,Xiaomi Mi 10T 5G (8GB RAM + 128GB),21890,83.0,1,1,0,Snapdragon 865,Octa Core, 2.84GHz Processor, 128,8,5000 ,1.0,6.67,2400 x 1080 px, 20 MP Front Camera, Triple Rear ,,Android v10
+900,931,931,931,vivo,Vivo V20 Pro,24999,84.0,1,0,0,Snapdragon 765G ,Octa Core, 2.4GHz Processor, 128,8,4000 ,1.0,6.44,1080 x 2400 px, 44 MP + 8 MP Dual Front Camera, + 8 ,,Android v10
+901,932,932,932,sony,Sony Xperia 5 II,69990,86.0,1,1,0,Snapdragon 865 ,Octa Core, 2.84GHz Processor, 128,8,4000 ,1.0,6.1,1080 x 2520 px, 8 MP Front Camera, Triple Rear ,1.0,Android v10
+902,933,933,933,oneplus,OnePlus Clover,14999,69.0,0,0,0,Snapdragon 460 ,Octa Core, 1.8GHz Processor, 64,4,6000 ,1.0,6.52,720 x 1560 px, 8 MP Front Camera, Triple Rear ,1.0,Android v10
+903,934,934,934,realme,Realme 7,17890,78.0,0,0,0,Helio  G95,Octa Core, 2.05GHz Processor, 64,6,5000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Quad Rear ,1.0,Android v10
+904,935,935,935,apple,Apple iPhone 9 Plus,45990,63.0,0,0,0,A13 Bionic,Hexa Core, 2.65GHz Processor, 64,4,2750 ,1.0,5.5,750 x 1334 px, 7 MP Front Camera, Rear ,1.0,iOS v13.0
+905,936,936,936,oppo,Oppo A31 2020 (6GB RAM + 128GB),12490,72.0,0,0,0,Helio P35,Octa Core, 2.3GHz Processor, 128,6,4230 ,0.0,6.5,720 x 1600 px, 8 MP Front Camera, Triple Rear ,1.0,Android v9.0 (Pie)
+906,937,937,937,sony,Sony Xperia 1 II,69999,89.0,1,1,0,Snapdragon  865 ,Octa Core, 2.84GHz Processor, 256,8,4000 ,1.0,6.5,1644 x 3840 px, 8 MP Front Camera, Quad Rear ,1.0,Android v10
+907,938,938,938,samsung,Samsung Galaxy Note 20,86000,86.0,0,1,0,Exynos  990,Octa Core, 2.73GHz Processor, 256,8,4300 ,1.0,6.7,1080 x 2400 px, 10 MP Front Camera, Triple Rear ,,Android v10
+908,939,939,939,samsung,Samsung Galaxy Z Flip,40999,81.0,0,1,0,Snapdragon 855+,Octa Core, 2.96GHz Processor, 256,8,3300 ,1.0,6.7,1080 x 2636 px, 10 MP Front Camera, Dual Rear ,1.0,
+909,940,940,940,huawei,Huawei Mate 30 RS Porsche Design,214990,,1,1,1,Kirin  990,Octa Core, 2.86GHz Processor, 512,12,4500 ,1.0,6.53,1176 x 2400 px, 32 MP Dual Front Camera, Quad Rear ,1.0,Android v10
+910,941,941,941,samsung,Samsung Galaxy A31,16990,80.0,0,1,0,Helio P65,Octa Core, 2GHz Processor, 128,6,5000 ,1.0,6.4,2400 x 1080 px, 20 MP Front Camera, Quad Rear ,1.0,Android v10
+911,942,942,942,xiaomi,Xiaomi Redmi 9,8099,68.0,0,0,0,Helio G35,Octa Core, 2.3GHz Processor, 64,4,5000 ,0.0,6.53,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v10
+912,943,943,943,xiaomi,Xiaomi Redmi Note 9,11999,75.0,0,0,1,Helio G85,Octa Core, 2GHz Processor, 64,4,5020 ,1.0,6.53,1080 x 2340 px, 13 MP Front Camera, Quad Rear ,1.0,Android v10.0
+913,944,944,944,motorola,Motorola Moto G8 Plus,9990,77.0,0,1,0,Snapdragon 665,Octa Core, 2GHz Processor, 64,4,4000 ,1.0,6.3,1080 x 2280 px, 25 MP Front Camera, Triple Rear ,1.0,Android v9.0 (Pie)
+914,946,946,946,google,Google Pixel 3,21899,70.0,0,1,0,Snapdragon 845,Octa Core, 2.8GHz Processor, 64,4,2915 ,1.0,5.5,1080 x 2160 px, 8 MP + 8 MP Dual Front Camera, + 8 ,,Android v9.0 (Pie)
+915,948,948,948,oneplus,OnePlus 6 (8GB RAM + 128GB),37999,77.0,0,1,0,Snapdragon 845,Octa Core, 2.8GHz Processor, 128,8,3300 ,0.0,6.28,1080 x 2280 px, 16 MP Front Camera, Dual Rear ,1.0,Android v8.1 (Oreo)
+916,949,949,949,apple,Apple iPhone 7s,52990,,0,0,0,Fusion APL1024,Quad Core, 2.37GHz Processor, 32,3,2230 ,0.0,4.7,750 x 1334 px, 7 MP Front Camera, Rear ,1.0,No FM Radio
+917,950,950,950,oneplus,OnePlus Ace 3V,29999,76.0,1,1,1,Snapdragon  7 Gen3,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,6.78,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v13
+918,951,951,951,google,Google Pixel 8 (8GB RAM + 256 GB),82999,78.0,1,1,0,Tensor G3,others, 3GHz Processor, 256,8,4575 ,1.0,6.2,1080 x 2400 px, 10.5 MP Front Camera, Dual Rear ,,Android v14
+919,952,952,952,honor,Honor 100 Pro,59990,,1,1,0,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 256,12,5000 ,1.0,6.78,1224 x 2700 px, 50 MP + 2 MP Dual Front Camera, + 2 ,,Android v13
+920,953,953,953,samsung,Samsung Galaxy A25 5G,26999,77.0,1,1,0,Octa Core Processor,,Octa Core Processor, 128,8,5000 ,1.0,6.56,1080 x 2340 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+921,954,954,954,tecno,Tecno Spark 10 Pro Moon Explorer Edition,11979,81.0,0,1,0,Helio  G88,Octa Core, 2GHz Processor, 128,8,5000 ,1.0,6.8,1080 x 2460 px, 32 MP Front Camera, Dual Rear ,1.0,Android v13
+922,955,955,955,realme,Realme 12X,17999,75.0,1,1,0,Octa Core Processor,,Octa Core Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+923,956,956,956,huawei,Huawei Mate 60 Pro Plus,98990,,1,1,1,Kirin 9000S,Octa Core, 2.62GHz Processor, 512,16,5000 ,1.0,6.82,1260 x 2720 px, 13 MP Front Camera, Triple Rear ,1.0,Hongmeng OS v4.0
+924,957,957,957,oneplus,OnePlus Ace 3,39999,85.0,1,1,1,Snapdragon 8 Gen2,Octa Core, 3.2GHz Processor, 128,8,5500 ,1.0,6.74,1240 x 2772 px, 16 MP Front Camera, Triple Rear ,,Android v14
+925,959,959,959,itel,itel A05s,6499,,0,0,0,Unisoc SC9863A,Octa Core, 1.6GHz Processor, 32,2,4000 ,0.0,6.6,720 x 1612 px, 5 MP Front Camera, Rear ,1.0,Android v13
+926,960,960,960,vivo,Vivo Y77t,16999,78.0,1,0,0,Dimensity 7020,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.64,1080 x 2388 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+927,961,961,961,samsung,Samsung Galaxy Z Fold 5 (12GB RAM + 512GB),164999,,1,1,0,Snapdragon 8 Gen 2,Octa Core, 3.36GHz Processor, 512,12,4400 ,1.0,7.6,1812 x 2176 px, 10 MP + 4 MP Dual Front Camera, + 4 ,,Android v13
+928,962,962,962,itel,itel S23 (4GB RAM +128 GB),7699,70.0,0,0,0,Octa Core,Octa Core, 1.6GHz Processor, 128,4,5000 ,1.0,6.6,1600 x 720 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+929,963,963,963,honor,Honor X5 Plus,10990,61.0,0,0,0,Helio G36,Octa Core, 2.2GHz Processor, 32,2,5000 ,0.0,6.56,720 x 1600 px, 5 MP Front Camera, Rear ,1.0,Android v13
+930,964,964,964,honor,Honor Magic 6,80999,,1,1,1,Snapdragon 8 Gen3,Octa Core, 3.3GHz Processor, 256,12,5100 ,1.0,6.74,1224 x 2688 px, 12 MP Front Camera, Quad Rear ,,Android v13
+931,965,965,965,honor,Honor X50 GT,29999,83.0,1,0,0,Snapdragon  8 Gen1,Octa Core, 3GHz Processor, 256,12,5000 ,1.0,6.78,1080 x 2388 px, 16 MP Front Camera, Triple Rear ,,Android v13
+932,966,966,966,honor,Honor X6a,12990,73.0,0,1,0,Helio G36,Octa Core, 2.2GHz Processor, 128,4,5200 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, + Depth Sensor Triple Rear ,1.0,Android v13
+933,967,967,967,samsung,Samsung Galaxy Z Fold 6,179990,85.0,1,1,0,Snapdragon  8 Gen3,Octa Core, Octa Core Processor, 256,12,5000 ,1.0,8,1812 x 2176 px, 12 MP + 12 MP Dual Front Camera, + 12 ,,Android v14
+934,969,969,969,motorola,Motorola Razr 50 Ultra,89990,,1,1,0,Snapdragon  8 Gen2,Octa Core, 3.2GHz Processor, 256,12,4200 ,1.0,6.9,1080 x 2640 px, 32 MP Front Camera, Triple Rear ,1.0,
+935,970,970,970,huawei,Huawei Nova Y91,23990,80.0,0,1,0,Snapdragon  680,Octa Core, 2.4GHz Processor, 128,8,7000 ,1.0,6.95,1080 x 2376 px, 8 MP Front Camera, Dual Rear ,1.0,EMUI v13
+936,971,971,971,iqoo,iQOO Neo 9 SE,29990,84.0,1,1,0,Snapdragon 8 Gen1,Octa Core, 3GHz Processor, 128,8,5000 ,1.0,6.82,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+937,972,972,972,oneplus,OnePlus Nord N40 SE,24990,85.0,1,1,0,Snapdragon 778G,Octa Core, 2.4GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v14
+938,973,973,973,infinix,Infinix Note 14 Pro 5G,17990,85.0,1,0,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 128,8,5000 ,1.0,6.78,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,1.0,Android v14
+939,974,974,974,vivo,Vivo T4,24990,85.0,1,0,0,Snapdragon 7+ Gen2,Octa Core, 2.91GHz Processor, 128,8,5000 ,1.0,6.6,1080 x 2400 px, 32 MP Front Camera, Dual Rear ,1.0,Android v14
+940,975,975,975,vivo,Vivo X90S,44990,88.0,1,1,1,Dimensity  9200 Plus,Octa Core, 3.05GHz Processor, 256,8,4810 ,1.0,6.78,1260 x 2800 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+941,976,976,976,tecno,Tecno Spark 10 5G (8GB RAM + 256GB),14999,80.0,1,1,0,Dimensity 6020,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.56,720 x 1612 px, 8 MP Front Camera, Dual Rear ,1.0,Android v13
+942,977,977,977,htc,HTC U23 Pro,45990,,1,1,0,Snapdragon 7 Gen1,Octa Core, 2.4GHz Processor, 256,8,4600 ,1.0,6.7,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v13
+943,978,978,978,xiaomi,Xiaomi Redmi Note 12R Pro,19990,80.0,1,1,1,Snapdragon 4 Gen1,Octa Core, 2GHz Processor, 256,12,5000 ,1.0,6.67,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,,Android
+944,979,979,979,apple,Apple iPhone 16 Plus,89900,76.0,1,1,0,Bionic A17,Octa Core, Octa Core Processor, 128,8,4800 ,1.0,6.74,1284 x 2800 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v18
+945,980,980,980,apple,Apple iPhone 16 Pro Max,159900,79.0,1,1,0,Bionic  A18 Pro,Hexa Core, Hexa Core Processor, 128,8,4200 ,1.0,6.7,1800 x 3200 px, 12 MP Front Camera, Triple Rear ,1.0,iOS v18
+946,981,981,981,tecno,Tecno Spark Go 2023 (3GB RAM + 64GB),6998,64.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 64,3,5000 ,1.0,6.56,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+947,982,982,982,gionee,Gionee F1 Plus,13990,63.0,0,0,0,Tiger  T610,Octa Core, 1.8GHz Processor, 128,6,4000 ,1.0,6.5,720 x 1520 px, 5 MP Front Camera, Rear ,1.0,Android v12
+948,983,983,983,tecno,Tecno Camon 20 Pro 4G,16990,82.0,0,1,0,Helio G99,Octa Core, 2.2GHz Processor, 256,8,5000 ,1.0,6.67,1080 x 2400 px, 32 MP Front Camera, Triple Rear ,,Android v13
+949,984,984,984,oppo,OPPO F24 4G,17990,78.0,0,0,0,Snapdragon  685,Octa Core, 2.8GHz Processor, 64,6,5000 ,1.0,6.41,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v13
+950,985,985,985,motorola,Motorola Razr Plus 2023,79990,89.0,1,1,0,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 256,8,3800 ,1.0,6.9,1080 x 2640 px, 32 MP Front Camera, Dual Rear ,1.0,
+951,986,986,986,tecno,Tecno Pop 7 Pro (3GB RAM + 64GB),6099,63.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 64,3,5000 ,1.0,6.56,720 x 1612 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+952,987,987,987,samsung,Samsung Galaxy A04s (4GB RAM + 128GB),13290,72.0,0,0,0,Exynos 850,Octa Core, 2GHz Processor, 128,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Triple Rear ,1.0,Android v12
+953,988,988,988,honor,Honor Magic 5 Lite,31999,80.0,1,1,1,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5100 ,1.0,6.67,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+954,989,989,989,vivo,Vivo S16,29990,85.0,1,1,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,8,4600 ,1.0,6.78,1080 x 2400 px, 50 MP Front Camera, Triple Rear ,,Android v13
+955,990,990,990,iqoo,iQOO Z9 Pro,25990,83.0,1,0,0,Snapdragon  7+ Gen2,Octa Core, 2.91GHz Processor, 128,8,5000 ,1.0,6.67,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,1.0,Android v13
+956,991,991,991,xiaomi,Xiaomi Civi 3,28990,87.0,1,1,1,Dimensity 8200 Ultra,Octa Core, 3.1GHz Processor, 256,12,4500 ,1.0,6.55,1080 x 2400 px, 32 MP + 32 MP Dual Front Camera, + 32 ,,Android v13
+957,993,993,993,infinix,Infinix Hot 20,13208,75.0,1,0,0,Dimensity 810,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+958,994,994,994,huawei,Huawei Nova 10 SE,23999,84.0,0,1,0,Sanpdragon 680,Octa Core, 2.4GHz Processor, 256,8,4500 ,1.0,6.67,1080 x 2160 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+959,995,995,995,tecno,Tecno Pova Neo 5G,9999,71.0,0,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 128,4,6000 ,1.0,6.8,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+960,996,996,996,honor,Honor X6,13999,71.0,0,0,0,Helio G25,Octa Core, 2GHz Processor, 64,4,5000 ,1.0,6.5,720 x 1600 px, 5 MP Front Camera, Triple Rear ,1.0,Android v12
+961,997,997,997,oneplus,OnePlus 10R Prime Edition,29998,85.0,1,1,0,Dimensity 8100 Max,Octa Core, 2.85GHz Processor, 128,8,5000 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+962,998,998,998,realme,Realme GT Neo 3T (8GB RAM + 128GB),31999,81.0,1,0,0,Snapdragon 870,Octa Core, 3.2GHz Processor, 128,8,5000 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+963,999,999,999,honor,Honor X40,23990,76.0,1,0,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5100 ,1.0,6.67,1080 x 2400 px, 8 MP Front Camera, Dual Rear ,,Android v12
+964,1000,1000,1000,xiaomi,Xiaomi Redmi 13 Prime 5G,17990,79.0,1,0,1,Snapdragon 4 Gen2,Octa Core, 2.2GHz Processor, 128,6,5100 ,1.0,6.73,1080 x 2408 px, 16 MP Front Camera, Dual Rear ,1.0,Android v13
+965,1001,1001,1001,apple,Apple iPhone 14 (512GB),85999,82.0,1,1,0,Bionic A15,Hexa Core, 3.22GHz Processor, 512,6,3279 ,1.0,6.1,1170 x 2532 px, 12 MP Front Camera, Dual Rear ,1.0,iOS v16
+966,1002,1002,1002,motorola,Motorola Moto G72,19990,81.0,1,1,0,Snapdragon 695,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.5,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+967,1003,1003,1003,xiaomi,Xiaomi Redmi A1 Plus,6239,60.0,0,0,0,Helio A22,Quad Core, 2GHz Processor, 32,2,5000 ,1.0,6.52,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v12
+968,1004,1004,1004,realme,Realme 9i 5G (6GB RAM + 128GB),16999,78.0,1,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 128,6,5000 ,1.0,6.6,1080 x 2408 px, 8 MP Front Camera, Triple Rear ,1.0,Android v12
+969,1005,1005,1005,motorola,Motorola Moto S30 Pro,23990,83.0,1,0,0,Snapdragon 888+,Octa Core, 2.9GHz Processor, 128,8,4400 ,1.0,6.55,1080 x 2460 px, 32 MP Front Camera, Triple Rear ,,Android v12
+970,1006,1006,1006,oneplus,OnePlus 10T (16GB RAM + 256GB),49995,87.0,1,1,0,Snapdragon 8+ Gen1,Octa Core, 3.2GHz Processor, 256,16,4800 ,1.0,6.7,1080 x 2412 px, 16 MP Front Camera, Triple Rear ,,Android v12
+971,1007,1007,1007,honor,Honor X8 5G,14990,75.0,1,0,0,Snapdragon  480+,Octa Core, 2.2GHz Processor, 128,6,5000 ,1.0,6.5,720 x 1600 px, 8 MP Front Camera, + Depth Sensor Triple Rear ,1.0,Android v11
+972,1008,1008,1008,oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),42990,85.0,1,1,0,Dimensity 8100-Max,Octa Core, 2.85GHz Processor, 256,8,4500 ,1.0,6.7,1080 x 2412 px, 32 MP Front Camera, Triple Rear ,,Android v12
+973,1009,1009,1009,oukitel,Oukitel WP19,29990,84.0,0,1,0,Helio G95,Octa Core, 2GHz Processor, 256,8,21000 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+974,1010,1010,1010,iqoo,iQOO 9T 5G,49499,85.0,1,1,1,Snapdragon  8+ Gen1,Octa Core, 3.2GHz Processor, 128,8,4700 ,1.0,6.78,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+975,1011,1011,1011,vivo,Vivo Y33e 5G,14999,71.0,1,0,0,Dimensity 700 5G,Octa Core, 2.2GHz Processor, 128,4,5000 ,0.0,6.51,720 x 1600 px, 8 MP Front Camera, Dual Rear ,1.0,Android v12
+976,1012,1012,1012,iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),28999,84.0,1,0,1,Snapdragon 870,Octa Core, 3.2GHz Processor, 256,12,4700 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+977,1013,1013,1013,huawei,Huawei Mate 50 Pro 5G,99990,85.0,1,1,0,Kirin 9000E,Octa Core, 3.13GHz Processor, 256,8,4500 ,1.0,6.76,1440 x 3200 px, 13 MP Front Camera, Triple Rear ,1.0,Hongmeng OS v4.0
+978,1014,1014,1014,poco,POCO X4 GT 5G,24990,84.0,1,1,1,Dimensity 8100,Octa Core, 2.85GHz Processor, 128,8,5080 ,1.0,6.6,1080 x 2460 px, 16 MP Front Camera, Triple Rear ,1.0,Android v12
+979,1015,1015,1015,samsung,Samsung Galaxy M63,24999,75.0,0,1,0,Octa Core Processor,,Octa Core Processor, 128,6,7000 ,1.0,6.71,1080 x 2400 px, 32 MP Front Camera, Quad Rear ,1.0,Android v12
+980,1016,1016,1016,realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),18499,80.0,1,0,0,Dimensity 920 5G,Octa Core, 2.5GHz Processor, 128,8,5000 ,1.0,6.4,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
+981,1017,1017,1017,realme,Realme Narzo 50 5G (4GB RAM + 64GB),15997,75.0,1,0,0,Dimensity 810 5G,Octa Core, 2.4GHz Processor, 64,4,5000 ,1.0,6.6,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,1.0,Android v11
+982,1018,1018,1018,xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),14990,73.0,0,0,0,Snapdragon 680,Octa Core, 2.4GHz Processor, 128,4,6000 ,1.0,6.7,720 x 1600 px, 5 MP Front Camera, Dual Rear ,1.0,Android v11
+983,1019,1019,1019,realme,Realme GT 2 (12GB RAM + 256GB),32999,86.0,1,1,0,Snapdragon  888 ,Octa Core, 2.84GHz Processor, 256,12,5000 ,1.0,6.62,1080 x 2400 px, 16 MP Front Camera, Triple Rear ,,Android v12
